@@ -1,0 +1,40 @@
+C:\Users\Dell\Desktop\Solution1\Client\bin\Debug\Client.exe.config
+C:\Users\Dell\Desktop\Solution1\Client\bin\Debug\Client.exe
+C:\Users\Dell\Desktop\Solution1\Client\bin\Debug\Client.pdb
+C:\Users\Dell\Desktop\Solution1\Client\bin\Debug\QuickFix.dll
+C:\Users\Dell\Desktop\Solution1\Client\bin\Debug\QuickFix.FIX42.dll
+C:\Users\Dell\Desktop\Solution1\Client\bin\Debug\QuickFix.xml
+C:\Users\Dell\Desktop\Solution1\Client\bin\Debug\QuickFix.FIX42.xml
+C:\Users\Dell\Desktop\Solution1\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\Solution1\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Solution1\Client\obj\Debug\Client.csproj.Up2Date
+C:\Users\Dell\Desktop\Solution1\Client\obj\Debug\Client.exe
+C:\Users\Dell\Desktop\Solution1\Client\obj\Debug\Client.pdb
+C:\Users\Dell\Desktop\FIX\Base FIX\Client\bin\Debug\Client.exe.config
+C:\Users\Dell\Desktop\FIX\Base FIX\Client\bin\Debug\Client.exe
+C:\Users\Dell\Desktop\FIX\Base FIX\Client\bin\Debug\Client.pdb
+C:\Users\Dell\Desktop\FIX\Base FIX\Client\bin\Debug\QuickFix.dll
+C:\Users\Dell\Desktop\FIX\Base FIX\Client\bin\Debug\QuickFix.FIX42.dll
+C:\Users\Dell\Desktop\FIX\Base FIX\Client\bin\Debug\QuickFix.xml
+C:\Users\Dell\Desktop\FIX\Base FIX\Client\bin\Debug\QuickFix.FIX42.xml
+C:\Users\Dell\Desktop\FIX\Base FIX\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\FIX\Base FIX\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\FIX\Base FIX\Client\obj\Debug\Client.csproj.Up2Date
+C:\Users\Dell\Desktop\FIX\Base FIX\Client\obj\Debug\Client.exe
+C:\Users\Dell\Desktop\FIX\Base FIX\Client\obj\Debug\Client.pdb
+C:\Users\Dell\Desktop\FIX\Base FIX\Client\bin\Debug\ClassLibrary2.dll
+C:\Users\Dell\Desktop\FIX\Base FIX\Client\bin\Debug\ClassLibrary2.pdb
+C:\Users\Dell\Desktop\FIX4.2\Base FIX\Client\bin\Debug\Client.exe.config
+C:\Users\Dell\Desktop\FIX4.2\Base FIX\Client\bin\Debug\Client.exe
+C:\Users\Dell\Desktop\FIX4.2\Base FIX\Client\bin\Debug\Client.pdb
+C:\Users\Dell\Desktop\FIX4.2\Base FIX\Client\bin\Debug\ClassLibrary2.dll
+C:\Users\Dell\Desktop\FIX4.2\Base FIX\Client\bin\Debug\QuickFix.dll
+C:\Users\Dell\Desktop\FIX4.2\Base FIX\Client\bin\Debug\QuickFix.FIX42.dll
+C:\Users\Dell\Desktop\FIX4.2\Base FIX\Client\bin\Debug\ClassLibrary2.pdb
+C:\Users\Dell\Desktop\FIX4.2\Base FIX\Client\bin\Debug\QuickFix.xml
+C:\Users\Dell\Desktop\FIX4.2\Base FIX\Client\bin\Debug\QuickFix.FIX42.xml
+C:\Users\Dell\Desktop\FIX4.2\Base FIX\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\FIX4.2\Base FIX\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\FIX4.2\Base FIX\Client\obj\Debug\Client.csproj.Up2Date
+C:\Users\Dell\Desktop\FIX4.2\Base FIX\Client\obj\Debug\Client.exe
+C:\Users\Dell\Desktop\FIX4.2\Base FIX\Client\obj\Debug\Client.pdb

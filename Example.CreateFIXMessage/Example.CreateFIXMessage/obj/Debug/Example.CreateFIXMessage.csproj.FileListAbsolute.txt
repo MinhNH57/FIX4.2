@@ -1,0 +1,7 @@
+C:\Users\Dell\Desktop\FIX\Example.CreateFIXMessage\Example.CreateFIXMessage\bin\Debug\Example.CreateFIXMessage.exe.config
+C:\Users\Dell\Desktop\FIX\Example.CreateFIXMessage\Example.CreateFIXMessage\bin\Debug\Example.CreateFIXMessage.exe
+C:\Users\Dell\Desktop\FIX\Example.CreateFIXMessage\Example.CreateFIXMessage\bin\Debug\Example.CreateFIXMessage.pdb
+C:\Users\Dell\Desktop\FIX\Example.CreateFIXMessage\Example.CreateFIXMessage\obj\Debug\Example.CreateFIXMessage.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\FIX\Example.CreateFIXMessage\Example.CreateFIXMessage\obj\Debug\Example.CreateFIXMessage.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\FIX\Example.CreateFIXMessage\Example.CreateFIXMessage\obj\Debug\Example.CreateFIXMessage.exe
+C:\Users\Dell\Desktop\FIX\Example.CreateFIXMessage\Example.CreateFIXMessage\obj\Debug\Example.CreateFIXMessage.pdb

@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\Desktop\\FIX4.2\\Base FIX\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D777A8-121D-4150-93C3-BE5BC95C25CD}|SeverFIX\\SeverFIX.csproj|c:\\users\\dell\\desktop\\fix4.2\\base fix\\severfix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D777A8-121D-4150-93C3-BE5BC95C25CD}|SeverFIX\\SeverFIX.csproj|solutionrelative:severfix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6AAD804-1548-4868-BE9C-5AAC4BF5E5F5}|Client\\Client.csproj|C:\\Users\\Dell\\Desktop\\FIX4.2\\Base FIX\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6AAD804-1548-4868-BE9C-5AAC4BF5E5F5}|Client\\Client.csproj|solutionrelative:client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\FIX4.2\\Base FIX\\SeverFIX\\Program.cs",
+              "RelativeDocumentMoniker": "SeverFIX\\Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\FIX4.2\\Base FIX\\SeverFIX\\Program.cs",
+              "RelativeToolTip": "SeverFIX\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T08:12:10.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\FIX4.2\\Base FIX\\Client\\Program.cs",
+              "RelativeDocumentMoniker": "Client\\Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\FIX4.2\\Base FIX\\Client\\Program.cs",
+              "RelativeToolTip": "Client\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T08:11:58.999Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

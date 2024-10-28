@@ -1,0 +1,40 @@
+C:\Users\Dell\Desktop\Solution1\SeverFIX\bin\Debug\SeverFIX.exe.config
+C:\Users\Dell\Desktop\Solution1\SeverFIX\bin\Debug\SeverFIX.exe
+C:\Users\Dell\Desktop\Solution1\SeverFIX\bin\Debug\SeverFIX.pdb
+C:\Users\Dell\Desktop\Solution1\SeverFIX\bin\Debug\QuickFix.dll
+C:\Users\Dell\Desktop\Solution1\SeverFIX\bin\Debug\QuickFix.FIX42.dll
+C:\Users\Dell\Desktop\Solution1\SeverFIX\bin\Debug\QuickFix.xml
+C:\Users\Dell\Desktop\Solution1\SeverFIX\bin\Debug\QuickFix.FIX42.xml
+C:\Users\Dell\Desktop\Solution1\SeverFIX\obj\Debug\SeverFIX.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\Solution1\SeverFIX\obj\Debug\SeverFIX.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Solution1\SeverFIX\obj\Debug\SeverFIX.csproj.Up2Date
+C:\Users\Dell\Desktop\Solution1\SeverFIX\obj\Debug\SeverFIX.exe
+C:\Users\Dell\Desktop\Solution1\SeverFIX\obj\Debug\SeverFIX.pdb
+C:\Users\Dell\Desktop\FIX\Base FIX\SeverFIX\bin\Debug\SeverFIX.exe.config
+C:\Users\Dell\Desktop\FIX\Base FIX\SeverFIX\bin\Debug\SeverFIX.exe
+C:\Users\Dell\Desktop\FIX\Base FIX\SeverFIX\bin\Debug\SeverFIX.pdb
+C:\Users\Dell\Desktop\FIX\Base FIX\SeverFIX\bin\Debug\QuickFix.dll
+C:\Users\Dell\Desktop\FIX\Base FIX\SeverFIX\bin\Debug\QuickFix.FIX42.dll
+C:\Users\Dell\Desktop\FIX\Base FIX\SeverFIX\bin\Debug\QuickFix.xml
+C:\Users\Dell\Desktop\FIX\Base FIX\SeverFIX\bin\Debug\QuickFix.FIX42.xml
+C:\Users\Dell\Desktop\FIX\Base FIX\SeverFIX\obj\Debug\SeverFIX.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\FIX\Base FIX\SeverFIX\obj\Debug\SeverFIX.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\FIX\Base FIX\SeverFIX\obj\Debug\SeverFIX.csproj.Up2Date
+C:\Users\Dell\Desktop\FIX\Base FIX\SeverFIX\obj\Debug\SeverFIX.exe
+C:\Users\Dell\Desktop\FIX\Base FIX\SeverFIX\obj\Debug\SeverFIX.pdb
+C:\Users\Dell\Desktop\FIX\Base FIX\SeverFIX\bin\Debug\ClassLibrary2.dll
+C:\Users\Dell\Desktop\FIX\Base FIX\SeverFIX\bin\Debug\ClassLibrary2.pdb
+C:\Users\Dell\Desktop\FIX4.2\Base FIX\SeverFIX\bin\Debug\SeverFIX.exe.config
+C:\Users\Dell\Desktop\FIX4.2\Base FIX\SeverFIX\bin\Debug\SeverFIX.exe
+C:\Users\Dell\Desktop\FIX4.2\Base FIX\SeverFIX\bin\Debug\SeverFIX.pdb
+C:\Users\Dell\Desktop\FIX4.2\Base FIX\SeverFIX\bin\Debug\ClassLibrary2.dll
+C:\Users\Dell\Desktop\FIX4.2\Base FIX\SeverFIX\bin\Debug\QuickFix.dll
+C:\Users\Dell\Desktop\FIX4.2\Base FIX\SeverFIX\bin\Debug\QuickFix.FIX42.dll
+C:\Users\Dell\Desktop\FIX4.2\Base FIX\SeverFIX\bin\Debug\ClassLibrary2.pdb
+C:\Users\Dell\Desktop\FIX4.2\Base FIX\SeverFIX\bin\Debug\QuickFix.xml
+C:\Users\Dell\Desktop\FIX4.2\Base FIX\SeverFIX\bin\Debug\QuickFix.FIX42.xml
+C:\Users\Dell\Desktop\FIX4.2\Base FIX\SeverFIX\obj\Debug\SeverFIX.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\FIX4.2\Base FIX\SeverFIX\obj\Debug\SeverFIX.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\FIX4.2\Base FIX\SeverFIX\obj\Debug\SeverFIX.csproj.Up2Date
+C:\Users\Dell\Desktop\FIX4.2\Base FIX\SeverFIX\obj\Debug\SeverFIX.exe
+C:\Users\Dell\Desktop\FIX4.2\Base FIX\SeverFIX\obj\Debug\SeverFIX.pdb

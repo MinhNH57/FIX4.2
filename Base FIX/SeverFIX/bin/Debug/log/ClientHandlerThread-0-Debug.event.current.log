@@ -1,0 +1,376 @@
+20241026-07:11:02.588 : connected
+20241026-07:15:42.186 : connected
+20241026-07:16:45.386 : shutdown requested: reactor is shutting down
+20241026-07:16:46.007 : SocketReader Error: System.ObjectDisposedException: Cannot access a disposed object.
+Object name: 'FileLog'.
+   at QuickFix.FileLog.DisposedCheck()
+   at QuickFix.FileLog.OnEvent(String s)
+   at QuickFix.Session.Next()
+   at QuickFix.SocketReader.Read()
+20241026-07:16:46.007 : shutdown requested: Cannot access a disposed object.
+Object name: 'FileLog'.
+20241026-07:16:46.007 : shutdown
+20241026-07:17:49.762 : connected
+20241026-07:18:40.957 : shutdown requested: Disconnected
+20241026-07:18:40.957 : shutdown
+20241026-07:19:30.966 : connected
+20241026-07:22:33.137 : connected
+20241026-07:23:06.698 : connected
+20241026-07:27:00.442 : connected
+20241026-07:30:48.889 : connected
+20241026-07:31:53.654 : SocketReader Error: Socket exception (127.0.0.1:56397): An existing connection was forcibly closed by the remote host
+20241026-07:31:53.655 : shutdown requested: Disconnected
+20241026-07:31:53.655 : shutdown requested: An existing connection was forcibly closed by the remote host
+20241026-07:31:53.655 : shutdown
+20241026-07:38:10.180 : connected
+20241026-07:38:43.777 : SocketReader Error: Socket exception (127.0.0.1:56417): An existing connection was forcibly closed by the remote host
+20241026-07:38:43.777 : shutdown requested: Disconnected
+20241026-07:38:43.779 : shutdown requested: An existing connection was forcibly closed by the remote host
+20241026-07:38:43.779 : shutdown
+20241026-07:43:36.251 : connected
+20241026-07:43:54.047 : SocketReader Error: Socket exception (127.0.0.1:56430): An existing connection was forcibly closed by the remote host
+20241026-07:43:54.049 : shutdown requested: Disconnected
+20241026-07:43:54.050 : shutdown requested: An existing connection was forcibly closed by the remote host
+20241026-07:43:54.050 : shutdown
+20241026-15:50:23.717 : connected
+20241026-15:51:11.111 : SocketReader Error: Socket exception (127.0.0.1:56916): An existing connection was forcibly closed by the remote host
+20241026-15:51:11.113 : shutdown requested: Disconnected
+20241026-15:51:11.114 : shutdown requested: An existing connection was forcibly closed by the remote host
+20241026-15:51:11.114 : shutdown
+20241026-15:58:54.450 : connected
+20241026-15:59:13.008 : SocketReader Error: Socket exception (127.0.0.1:56940): An existing connection was forcibly closed by the remote host
+20241026-15:59:13.009 : shutdown requested: Disconnected
+20241026-16:00:01.666 : connected
+20241026-16:00:22.530 : SocketReader Error: Socket exception (127.0.0.1:56955): An existing connection was forcibly closed by the remote host
+20241026-16:00:22.530 : shutdown requested: Disconnected
+20241026-16:00:22.530 : shutdown requested: An existing connection was forcibly closed by the remote host
+20241026-16:00:22.530 : shutdown
+20241026-16:01:59.975 : connected
+20241026-16:02:16.840 : connected
+20241026-16:02:17.980 : SocketReader Error: Socket exception (127.0.0.1:56964): An existing connection was forcibly closed by the remote host
+20241026-16:02:17.981 : shutdown requested: Disconnected
+20241026-16:02:17.982 : shutdown requested: An existing connection was forcibly closed by the remote host
+20241026-16:02:17.982 : shutdown
+20241026-16:02:36.490 : connected
+20241026-16:03:16.672 : connected
+20241026-16:03:50.359 : connected
+20241026-16:04:23.640 : connected
+20241026-16:11:39.334 : connected
+20241026-16:21:22.332 : connected
+20241026-16:22:24.554 : connected
+20241026-16:22:37.310 : shutdown requested: Disconnected
+20241026-16:22:37.310 : shutdown
+20241026-16:25:42.019 : connected
+20241026-16:25:42.057 : shutdown requested: Disconnected
+20241026-16:25:42.071 : shutdown
+20241027-04:41:50.561 : connected
+20241027-04:42:08.479 : shutdown requested: reactor is shutting down
+20241027-04:42:08.783 : SocketReader Error: System.ObjectDisposedException: Cannot access a disposed object.
+Object name: 'FileLog'.
+   at QuickFix.FileLog.DisposedCheck()
+   at QuickFix.FileLog.OnEvent(String s)
+   at QuickFix.Session.Next()
+   at QuickFix.SocketReader.Read()
+20241027-04:42:08.783 : shutdown requested: Cannot access a disposed object.
+Object name: 'FileLog'.
+20241027-04:42:08.783 : shutdown
+20241027-04:42:14.185 : connected
+20241027-04:42:18.990 : SocketReader Error: Socket exception (127.0.0.1:58408): An existing connection was forcibly closed by the remote host
+20241027-04:42:18.990 : shutdown requested: Disconnected
+20241027-04:42:18.990 : shutdown requested: An existing connection was forcibly closed by the remote host
+20241027-04:42:18.990 : shutdown
+20241027-04:49:51.155 : connected
+20241027-04:54:55.590 : connected
+20241027-04:54:55.668 : shutdown requested: Disconnected
+20241027-04:54:55.668 : shutdown
+20241027-04:55:23.445 : connected
+20241027-04:55:23.492 : shutdown requested: Disconnected
+20241027-04:55:23.508 : shutdown
+20241027-04:55:57.880 : connected
+20241027-04:56:17.540 : shutdown requested: reactor is shutting down
+20241027-04:56:18.133 : SocketReader Error: System.ObjectDisposedException: Cannot access a disposed object.
+Object name: 'FileLog'.
+   at QuickFix.FileLog.DisposedCheck()
+   at QuickFix.FileLog.OnEvent(String s)
+   at QuickFix.Session.Next()
+   at QuickFix.SocketReader.Read()
+20241027-04:56:18.133 : shutdown requested: Cannot access a disposed object.
+Object name: 'FileLog'.
+20241027-04:56:18.133 : shutdown
+20241027-11:24:19.027 : connected
+20241027-11:24:29.011 : SocketReader Error: Socket exception (127.0.0.1:59092): An existing connection was forcibly closed by the remote host
+20241027-11:24:29.011 : shutdown requested: Disconnected
+20241027-11:24:29.011 : shutdown requested: An existing connection was forcibly closed by the remote host
+20241027-11:24:29.011 : shutdown
+20241027-11:25:04.654 : connected
+20241027-11:25:49.571 : connected
+20241027-11:27:01.570 : connected
+20241027-11:28:01.294 : connected
+20241027-11:28:20.939 : connected
+20241027-12:43:22.383 : connected
+20241027-12:44:01.243 : SocketReader Error: Socket exception (127.0.0.1:59313): An existing connection was forcibly closed by the remote host
+20241027-12:44:01.243 : shutdown requested: Disconnected
+20241027-12:44:01.244 : shutdown requested: An existing connection was forcibly closed by the remote host
+20241027-12:44:01.244 : shutdown
+20241027-12:46:53.514 : connected
+20241027-12:48:29.706 : connected
+20241027-12:48:36.209 : shutdown requested: reactor is shutting down
+20241027-12:48:36.812 : SocketReader Error: System.ObjectDisposedException: Cannot access a disposed object.
+Object name: 'FileLog'.
+   at QuickFix.FileLog.DisposedCheck()
+   at QuickFix.FileLog.OnEvent(String s)
+   at QuickFix.Session.Next()
+   at QuickFix.SocketReader.Read()
+20241027-12:48:36.812 : shutdown requested: Cannot access a disposed object.
+Object name: 'FileLog'.
+20241027-12:48:36.812 : shutdown
+20241027-12:48:43.329 : connected
+20241027-12:49:24.193 : SocketReader Error: Socket exception (127.0.0.1:59345): An existing connection was forcibly closed by the remote host
+20241027-12:49:24.193 : shutdown requested: Disconnected
+20241027-12:49:24.193 : shutdown requested: An existing connection was forcibly closed by the remote host
+20241027-12:49:24.193 : shutdown
+20241027-12:54:49.699 : connected
+20241027-13:24:22.623 : connected
+20241027-13:24:44.191 : SocketReader Error: Socket exception (127.0.0.1:59470): An existing connection was forcibly closed by the remote host
+20241027-13:24:44.193 : shutdown requested: Disconnected
+20241027-13:24:44.193 : shutdown requested: An existing connection was forcibly closed by the remote host
+20241027-13:24:44.193 : shutdown
+20241028-01:37:06.543 : connected
+20241028-01:39:52.922 : connected
+20241028-01:40:30.115 : SocketReader Error: Socket exception (127.0.0.1:54978): An existing connection was forcibly closed by the remote host
+20241028-01:40:30.116 : shutdown requested: Disconnected
+20241028-01:40:30.118 : shutdown requested: An existing connection was forcibly closed by the remote host
+20241028-01:40:30.118 : shutdown
+20241028-01:40:44.626 : connected
+20241028-01:40:49.295 : shutdown requested: reactor is shutting down
+20241028-01:40:49.872 : SocketReader Error: System.ObjectDisposedException: Cannot access a disposed object.
+Object name: 'FileLog'.
+   at QuickFix.FileLog.DisposedCheck()
+   at QuickFix.FileLog.OnEvent(String s)
+   at QuickFix.Session.Next()
+   at QuickFix.SocketReader.Read()
+20241028-01:40:49.872 : shutdown requested: Cannot access a disposed object.
+Object name: 'FileLog'.
+20241028-01:40:49.872 : shutdown
+20241028-01:40:56.623 : connected
+20241028-01:43:51.747 : connected
+20241028-01:43:58.172 : connected
+20241028-01:46:24.377 : connected
+20241028-01:48:33.123 : connected
+20241028-01:49:05.014 : SocketReader Error: Socket exception (127.0.0.1:55008): An existing connection was forcibly closed by the remote host
+20241028-01:49:05.015 : shutdown requested: Disconnected
+20241028-01:49:05.016 : shutdown requested: An existing connection was forcibly closed by the remote host
+20241028-01:49:05.016 : shutdown
+20241028-01:50:17.130 : connected
+20241028-01:50:24.254 : shutdown requested: reactor is shutting down
+20241028-01:50:25.267 : SocketReader Error: System.ObjectDisposedException: Cannot access a disposed object.
+Object name: 'FileLog'.
+   at QuickFix.FileLog.DisposedCheck()
+   at QuickFix.FileLog.OnEvent(String s)
+   at QuickFix.Session.Next()
+   at QuickFix.SocketReader.Read()
+20241028-01:50:25.267 : shutdown requested: Cannot access a disposed object.
+Object name: 'FileLog'.
+20241028-01:50:25.267 : shutdown
+20241028-01:50:29.872 : connected
+20241028-01:53:23.047 : connected
+20241028-01:55:10.717 : connected
+20241028-01:56:08.894 : connected
+20241028-01:58:08.117 : connected
+20241028-01:58:49.672 : SocketReader Error: Socket exception (127.0.0.1:55088): An existing connection was forcibly closed by the remote host
+20241028-01:58:49.673 : shutdown requested: Disconnected
+20241028-01:58:49.673 : shutdown requested: An existing connection was forcibly closed by the remote host
+20241028-01:58:49.673 : shutdown
+20241028-02:00:57.977 : connected
+20241028-02:01:17.597 : shutdown requested: reactor is shutting down
+20241028-02:01:18.307 : SocketReader Error: System.ObjectDisposedException: Cannot access a disposed object.
+Object name: 'FileLog'.
+   at QuickFix.FileLog.DisposedCheck()
+   at QuickFix.FileLog.OnEvent(String s)
+   at QuickFix.Session.Next()
+   at QuickFix.SocketReader.Read()
+20241028-02:01:18.307 : shutdown requested: Cannot access a disposed object.
+Object name: 'FileLog'.
+20241028-02:01:18.307 : shutdown
+20241028-02:01:24.499 : connected
+20241028-02:03:37.725 : connected
+20241028-02:07:15.404 : connected
+20241028-02:12:38.898 : connected
+20241028-02:21:52.893 : connected
+20241028-02:23:37.514 : connected
+20241028-02:25:21.248 : SocketReader Error: Socket exception (127.0.0.1:55292): An existing connection was forcibly closed by the remote host
+20241028-02:25:21.249 : shutdown requested: Disconnected
+20241028-02:25:21.249 : shutdown requested: An existing connection was forcibly closed by the remote host
+20241028-02:25:21.249 : shutdown
+20241028-02:25:45.473 : connected
+20241028-02:26:05.331 : connected
+20241028-02:26:12.876 : SocketReader Error: Socket exception (127.0.0.1:55329): An existing connection was forcibly closed by the remote host
+20241028-02:26:12.878 : shutdown requested: Disconnected
+20241028-02:26:12.878 : shutdown requested: An existing connection was forcibly closed by the remote host
+20241028-02:26:12.879 : shutdown
+20241028-02:26:42.426 : connected
+20241028-02:26:58.450 : SocketReader Error: Socket exception (127.0.0.1:55337): An existing connection was forcibly closed by the remote host
+20241028-02:26:58.452 : shutdown requested: Disconnected
+20241028-02:26:58.453 : shutdown requested: An existing connection was forcibly closed by the remote host
+20241028-02:26:58.453 : shutdown
+20241028-02:30:07.207 : connected
+20241028-02:33:02.395 : connected
+20241028-02:44:11.716 : shutdown requested: reactor is shutting down
+20241028-02:44:12.701 : SocketReader Error: System.ObjectDisposedException: Cannot access a disposed object.
+Object name: 'FileLog'.
+   at QuickFix.FileLog.DisposedCheck()
+   at QuickFix.FileLog.OnEvent(String s)
+   at QuickFix.Session.Next()
+   at QuickFix.SocketReader.Read()
+20241028-02:44:12.701 : shutdown requested: Cannot access a disposed object.
+Object name: 'FileLog'.
+20241028-02:44:12.701 : shutdown
+20241028-02:44:39.054 : connected
+20241028-02:49:38.148 : SocketReader Error: Socket exception (127.0.0.1:56004): An existing connection was forcibly closed by the remote host
+20241028-02:49:38.149 : shutdown requested: Disconnected
+20241028-02:49:38.150 : shutdown requested: An existing connection was forcibly closed by the remote host
+20241028-02:49:38.150 : shutdown
+20241028-02:53:34.398 : connected
+20241028-02:55:05.249 : connected
+20241028-02:55:14.433 : SocketReader Error: Socket exception (127.0.0.1:56037): An existing connection was forcibly closed by the remote host
+20241028-02:55:14.434 : shutdown requested: Disconnected
+20241028-03:00:48.351 : connected
+20241028-03:03:09.460 : SocketReader Error: Socket exception (127.0.0.1:56059): An existing connection was forcibly closed by the remote host
+20241028-03:03:09.461 : shutdown requested: Disconnected
+20241028-03:03:09.462 : shutdown requested: An existing connection was forcibly closed by the remote host
+20241028-03:03:09.462 : shutdown
+20241028-04:20:18.566 : connected
+20241028-04:24:10.915 : connected
+20241028-04:26:12.505 : connected
+20241028-04:26:53.520 : connected
+20241028-04:27:14.696 : SocketReader Error: Socket exception (127.0.0.1:58047): An existing connection was forcibly closed by the remote host
+20241028-04:27:14.697 : shutdown requested: Disconnected
+20241028-04:27:14.698 : shutdown requested: An existing connection was forcibly closed by the remote host
+20241028-04:27:14.698 : shutdown
+20241028-04:29:16.395 : connected
+20241028-04:30:26.134 : shutdown requested: reactor is shutting down
+20241028-04:30:27.064 : SocketReader Error: System.ObjectDisposedException: Cannot access a disposed object.
+Object name: 'FileLog'.
+   at QuickFix.FileLog.DisposedCheck()
+   at QuickFix.FileLog.OnEvent(String s)
+   at QuickFix.Session.Next()
+   at QuickFix.SocketReader.Read()
+20241028-04:30:27.064 : shutdown requested: Cannot access a disposed object.
+Object name: 'FileLog'.
+20241028-04:30:27.064 : shutdown
+20241028-04:30:31.864 : connected
+20241028-04:30:42.518 : SocketReader Error: Socket exception (127.0.0.1:58145): An existing connection was forcibly closed by the remote host
+20241028-04:30:42.518 : shutdown requested: Disconnected
+20241028-04:30:42.523 : shutdown requested: An existing connection was forcibly closed by the remote host
+20241028-04:30:42.523 : shutdown
+20241028-06:02:29.600 : connected
+20241028-06:05:04.383 : connected
+20241028-06:05:23.000 : connected
+20241028-06:07:42.375 : connected
+20241028-06:07:44.412 : SocketReader Error: Socket exception (127.0.0.1:58885): An existing connection was forcibly closed by the remote host
+20241028-06:07:44.414 : shutdown requested: Disconnected
+20241028-06:07:44.415 : shutdown requested: An existing connection was forcibly closed by the remote host
+20241028-06:07:44.415 : shutdown
+20241028-06:17:39.171 : connected
+20241028-06:20:00.791 : connected
+20241028-06:20:43.294 : connected
+20241028-06:24:54.620 : connected
+20241028-06:26:17.450 : connected
+20241028-06:26:34.011 : SocketReader Error: Socket exception (127.0.0.1:58976): An existing connection was forcibly closed by the remote host
+20241028-06:26:34.013 : shutdown requested: Disconnected
+20241028-06:26:34.014 : shutdown requested: An existing connection was forcibly closed by the remote host
+20241028-06:26:34.014 : shutdown
+20241028-06:27:28.244 : connected
+20241028-06:28:08.021 : SocketReader Error: Socket exception (127.0.0.1:58980): An existing connection was forcibly closed by the remote host
+20241028-06:28:08.021 : shutdown requested: Disconnected
+20241028-06:28:08.031 : shutdown requested: An existing connection was forcibly closed by the remote host
+20241028-06:28:08.031 : shutdown
+20241028-06:29:23.955 : connected
+20241028-06:29:57.681 : SocketReader Error: Socket exception (127.0.0.1:58988): An existing connection was forcibly closed by the remote host
+20241028-06:29:57.681 : shutdown requested: Disconnected
+20241028-06:29:57.683 : shutdown requested: An existing connection was forcibly closed by the remote host
+20241028-06:29:57.683 : shutdown
+20241028-06:30:32.276 : connected
+20241028-06:31:00.184 : SocketReader Error: Socket exception (127.0.0.1:58992): An existing connection was forcibly closed by the remote host
+20241028-06:31:00.186 : shutdown requested: Disconnected
+20241028-06:31:00.187 : shutdown requested: An existing connection was forcibly closed by the remote host
+20241028-06:31:00.187 : shutdown
+20241028-06:31:44.933 : connected
+20241028-06:31:56.701 : SocketReader Error: Socket exception (127.0.0.1:58996): An existing connection was forcibly closed by the remote host
+20241028-06:32:23.927 : connected
+20241028-06:33:28.052 : connected
+20241028-06:35:02.617 : connected
+20241028-06:35:25.514 : SocketReader Error: Socket exception (127.0.0.1:59008): An existing connection was forcibly closed by the remote host
+20241028-06:35:25.515 : shutdown requested: Disconnected
+20241028-06:35:25.516 : shutdown requested: An existing connection was forcibly closed by the remote host
+20241028-06:35:25.516 : shutdown
+20241028-06:35:49.016 : connected
+20241028-06:35:54.820 : SocketReader Error: Socket exception (127.0.0.1:59010): An existing connection was forcibly closed by the remote host
+20241028-06:35:54.821 : shutdown requested: Disconnected
+20241028-06:35:54.821 : shutdown requested: An existing connection was forcibly closed by the remote host
+20241028-06:35:54.821 : shutdown
+20241028-06:36:05.411 : connected
+20241028-06:36:23.766 : SocketReader Error: Socket exception (127.0.0.1:59014): An existing connection was forcibly closed by the remote host
+20241028-06:36:23.767 : shutdown requested: Disconnected
+20241028-06:36:23.768 : shutdown requested: An existing connection was forcibly closed by the remote host
+20241028-06:36:23.768 : shutdown
+20241028-06:36:40.291 : connected
+20241028-06:36:46.281 : SocketReader Error: Socket exception (127.0.0.1:59017): An existing connection was forcibly closed by the remote host
+20241028-06:36:46.282 : shutdown requested: Disconnected
+20241028-06:36:46.284 : shutdown requested: An existing connection was forcibly closed by the remote host
+20241028-06:36:46.284 : shutdown
+20241028-06:36:56.305 : connected
+20241028-06:53:10.126 : connected
+20241028-06:53:28.113 : SocketReader Error: Socket exception (127.0.0.1:59104): An existing connection was forcibly closed by the remote host
+20241028-06:53:28.115 : shutdown requested: Disconnected
+20241028-06:53:28.116 : shutdown requested: An existing connection was forcibly closed by the remote host
+20241028-06:53:28.116 : shutdown
+20241028-06:55:23.742 : connected
+20241028-06:57:25.737 : connected
+20241028-06:57:35.140 : SocketReader Error: Socket exception (127.0.0.1:59136): An existing connection was forcibly closed by the remote host
+20241028-06:57:35.142 : shutdown requested: Disconnected
+20241028-06:57:35.143 : shutdown requested: An existing connection was forcibly closed by the remote host
+20241028-06:57:35.143 : shutdown
+20241028-06:57:45.315 : connected
+20241028-06:58:06.211 : SocketReader Error: Socket exception (127.0.0.1:59137): An existing connection was forcibly closed by the remote host
+20241028-06:58:06.211 : shutdown requested: Disconnected
+20241028-06:58:06.211 : shutdown requested: An existing connection was forcibly closed by the remote host
+20241028-06:58:06.211 : shutdown
+20241028-06:58:23.334 : connected
+20241028-07:00:23.631 : SocketReader Error: Socket exception (127.0.0.1:59140): An existing connection was forcibly closed by the remote host
+20241028-07:00:23.632 : shutdown requested: Disconnected
+20241028-07:00:23.633 : shutdown requested: An existing connection was forcibly closed by the remote host
+20241028-07:00:23.633 : shutdown
+20241028-07:00:57.629 : connected
+20241028-07:01:39.165 : connected
+20241028-07:02:37.042 : SocketReader Error: Socket exception (127.0.0.1:59157): An existing connection was forcibly closed by the remote host
+20241028-07:02:37.043 : shutdown requested: Disconnected
+20241028-07:02:37.044 : shutdown requested: An existing connection was forcibly closed by the remote host
+20241028-07:02:37.044 : shutdown
+20241028-07:05:51.931 : connected
+20241028-07:06:11.224 : connected
+20241028-07:06:13.741 : SocketReader Error: Socket exception (127.0.0.1:59185): An existing connection was forcibly closed by the remote host
+20241028-07:06:13.742 : shutdown requested: Disconnected
+20241028-07:06:13.743 : shutdown requested: An existing connection was forcibly closed by the remote host
+20241028-07:06:13.743 : shutdown
+20241028-07:28:50.359 : connected
+20241028-07:45:47.760 : connected
+20241028-07:45:55.360 : SocketReader Error: Socket exception (127.0.0.1:59343): An existing connection was forcibly closed by the remote host
+20241028-07:45:55.360 : shutdown requested: Disconnected
+20241028-07:45:55.360 : shutdown requested: An existing connection was forcibly closed by the remote host
+20241028-07:45:55.360 : shutdown
+20241028-07:48:29.518 : connected
+20241028-07:51:36.467 : connected
+20241028-07:52:13.775 : SocketReader Error: Socket exception (127.0.0.1:59390): An existing connection was forcibly closed by the remote host
+20241028-07:53:26.469 : connected
+20241028-07:53:48.160 : connected
+20241028-07:55:50.268 : connected
+20241028-07:56:44.340 : SocketReader Error: Socket exception (127.0.0.1:59448): An existing connection was forcibly closed by the remote host
+20241028-07:56:44.342 : shutdown requested: Disconnected
+20241028-07:56:44.342 : shutdown requested: An existing connection was forcibly closed by the remote host
+20241028-07:56:44.343 : shutdown
+20241028-08:01:13.340 : connected
+20241028-08:01:32.063 : SocketReader Error: Socket exception (127.0.0.1:59509): An existing connection was forcibly closed by the remote host
+20241028-08:01:32.064 : shutdown requested: Disconnected
+20241028-08:12:22.736 : connected
+20241028-08:13:26.653 : connected

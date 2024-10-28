@@ -1,0 +1,806 @@
+20241026-07:07:40.533 : Created session
+20241026-07:07:40.550 : Connecting to 127.0.0.1 on port 5001
+20241026-07:07:42.605 : Connection failed: No connection could be made because the target machine actively refused it 127.0.0.1:5001
+20241026-07:08:15.166 : Created session
+20241026-07:08:15.197 : Connecting to 127.0.0.1 on port 5001
+20241026-07:08:17.244 : Connection failed: No connection could be made because the target machine actively refused it 127.0.0.1:5001
+20241026-07:09:17.244 : Created session
+20241026-07:09:17.276 : Connecting to 127.0.0.1 on port 5001
+20241026-07:09:19.337 : Connection failed: No connection could be made because the target machine actively refused it 127.0.0.1:5001
+20241026-07:10:11.795 : Created session
+20241026-07:10:11.826 : Connecting to 127.0.0.1 on port 5001
+20241026-07:10:13.879 : Connection failed: No connection could be made because the target machine actively refused it 127.0.0.1:5001
+20241026-07:11:02.027 : Created session
+20241026-07:11:02.061 : Connecting to 127.0.0.1 on port 5001
+20241026-07:11:02.588 : Connection succeeded
+20241026-07:11:02.604 : Initiated logon request
+20241026-07:11:02.653 : Received logon
+20241026-07:11:02.669 : Got resend request from 1 to 0
+20241026-07:11:02.673 : Sent SequenceReset TO: 3
+20241026-07:11:27.268 : Session FIX.4.2:CLIENT1->SERVER disconnecting: System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20241026-07:15:41.606 : Created session
+20241026-07:15:41.656 : Connecting to 127.0.0.1 on port 5001
+20241026-07:15:42.186 : Connection succeeded
+20241026-07:15:42.206 : Initiated logon request
+20241026-07:15:42.297 : Received logon
+20241026-07:16:46.016 : Session FIX.4.2:CLIENT1->SERVER disconnecting: System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20241026-07:17:49.226 : Created session
+20241026-07:17:49.246 : Connecting to 127.0.0.1 on port 5001
+20241026-07:17:49.762 : Connection succeeded
+20241026-07:17:49.779 : Initiated logon request
+20241026-07:17:49.836 : Received logon
+20241026-07:18:40.950 : Initiated logout request
+20241026-07:18:40.957 : Received logout response
+20241026-07:18:40.957 : Session FIX.4.2:CLIENT1->SERVER disconnecting: Received logout response
+20241026-07:19:30.391 : Created session
+20241026-07:19:30.416 : Connecting to 127.0.0.1 on port 5001
+20241026-07:19:30.966 : Connection succeeded
+20241026-07:19:30.988 : Initiated logon request
+20241026-07:19:31.056 : Received logon
+20241026-07:19:35.936 : Session FIX.4.2:CLIENT1->SERVER disconnecting: System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20241026-07:22:32.556 : Created session
+20241026-07:22:32.588 : Connecting to 127.0.0.1 on port 5001
+20241026-07:22:33.137 : Connection succeeded
+20241026-07:22:33.156 : Initiated logon request
+20241026-07:22:33.216 : Received logon
+20241026-07:22:39.361 : Session FIX.4.2:CLIENT1->SERVER disconnecting: System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20241026-07:23:06.126 : Created session
+20241026-07:23:06.176 : Connecting to 127.0.0.1 on port 5001
+20241026-07:23:06.698 : Connection succeeded
+20241026-07:23:06.716 : Initiated logon request
+20241026-07:23:06.786 : Received logon
+20241026-07:26:59.913 : Created session
+20241026-07:26:59.935 : Connecting to 127.0.0.1 on port 5001
+20241026-07:27:00.442 : Connection succeeded
+20241026-07:27:00.459 : Initiated logon request
+20241026-07:27:00.507 : Received logon
+20241026-07:27:28.902 : Session FIX.4.2:CLIENT1->SERVER disconnecting: System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20241026-07:30:48.340 : Created session
+20241026-07:30:48.366 : Connecting to 127.0.0.1 on port 5001
+20241026-07:30:48.889 : Connection succeeded
+20241026-07:30:48.907 : Initiated logon request
+20241026-07:30:48.971 : Received logon
+20241026-07:38:09.623 : Created session
+20241026-07:38:09.670 : Connecting to 127.0.0.1 on port 5001
+20241026-07:38:10.178 : Connection succeeded
+20241026-07:38:10.197 : Initiated logon request
+20241026-07:38:10.248 : Received logon
+20241026-07:43:35.715 : Created session
+20241026-07:43:35.740 : Connecting to 127.0.0.1 on port 5001
+20241026-07:43:36.251 : Connection succeeded
+20241026-07:43:36.268 : Initiated logon request
+20241026-07:43:36.331 : Received logon
+20241026-15:50:23.170 : Created session
+20241026-15:50:23.197 : Connecting to 127.0.0.1 on port 5001
+20241026-15:50:23.717 : Connection succeeded
+20241026-15:50:23.748 : Initiated logon request
+20241026-15:50:23.827 : Received logon
+20241026-15:58:53.850 : Created session
+20241026-15:58:53.897 : Connecting to 127.0.0.1 on port 5001
+20241026-15:58:54.450 : Connection succeeded
+20241026-15:58:54.470 : Initiated logon request
+20241026-15:58:54.541 : Received logon
+20241026-16:00:01.085 : Created session
+20241026-16:00:01.130 : Connecting to 127.0.0.1 on port 5001
+20241026-16:00:01.666 : Connection succeeded
+20241026-16:00:01.682 : Initiated logon request
+20241026-16:00:01.745 : Received logon
+20241026-16:01:59.428 : Created session
+20241026-16:01:59.443 : Connecting to 127.0.0.1 on port 5001
+20241026-16:01:59.975 : Connection succeeded
+20241026-16:01:59.990 : Initiated logon request
+20241026-16:02:00.078 : Received logon
+20241026-16:02:02.985 : Session FIX.4.2:CLIENT1->SERVER disconnecting: System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20241026-16:02:16.257 : Created session
+20241026-16:02:16.304 : Connecting to 127.0.0.1 on port 5001
+20241026-16:02:16.840 : Connection succeeded
+20241026-16:02:16.859 : Initiated logon request
+20241026-16:02:16.897 : Received logon
+20241026-16:02:35.931 : Created session
+20241026-16:02:35.946 : Connecting to 127.0.0.1 on port 5001
+20241026-16:02:36.485 : Connection succeeded
+20241026-16:02:36.506 : Initiated logon request
+20241026-16:02:36.556 : Received logon
+20241026-16:02:53.066 : Session FIX.4.2:CLIENT1->SERVER disconnecting: System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20241026-16:03:16.109 : Created session
+20241026-16:03:16.140 : Connecting to 127.0.0.1 on port 5001
+20241026-16:03:16.657 : Connection succeeded
+20241026-16:03:16.672 : Initiated logon request
+20241026-16:03:16.797 : Received logon
+20241026-16:03:25.907 : Session FIX.4.2:CLIENT1->SERVER disconnecting: System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20241026-16:03:49.780 : Created session
+20241026-16:03:49.827 : Connecting to 127.0.0.1 on port 5001
+20241026-16:03:50.359 : Connection succeeded
+20241026-16:03:50.390 : Initiated logon request
+20241026-16:03:50.484 : Received logon
+20241026-16:03:57.923 : Session FIX.4.2:CLIENT1->SERVER disconnecting: System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20241026-16:04:23.108 : Created session
+20241026-16:04:23.124 : Connecting to 127.0.0.1 on port 5001
+20241026-16:04:23.640 : Connection succeeded
+20241026-16:04:23.656 : Initiated logon request
+20241026-16:04:23.727 : Received logon
+20241026-16:04:51.275 : Session FIX.4.2:CLIENT1->SERVER disconnecting: System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20241026-16:11:38.797 : Created session
+20241026-16:11:38.813 : Connecting to 127.0.0.1 on port 5001
+20241026-16:11:39.334 : Connection succeeded
+20241026-16:11:39.356 : Initiated logon request
+20241026-16:11:39.412 : Received logon
+20241026-16:11:56.011 : Session FIX.4.2:CLIENT1->SERVER disconnecting: System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20241026-16:21:21.786 : Created session
+20241026-16:21:21.817 : Connecting to 127.0.0.1 on port 5001
+20241026-16:21:22.332 : Connection succeeded
+20241026-16:21:22.348 : Initiated logon request
+20241026-16:21:22.379 : Received logon
+20241026-16:21:31.926 : Session FIX.4.2:CLIENT1->SERVER disconnecting: System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20241026-16:22:24.007 : Created session
+20241026-16:22:24.022 : Connecting to 127.0.0.1 on port 5001
+20241026-16:22:24.554 : Connection succeeded
+20241026-16:22:24.572 : Initiated logon request
+20241026-16:22:24.635 : Received logon
+20241026-16:22:37.310 : Initiated logout request
+20241026-16:22:37.310 : Received logout response
+20241026-16:22:37.310 : Session FIX.4.2:CLIENT1->SERVER disconnecting: Received logout response
+20241026-16:22:38.185 : Created session
+20241026-16:25:41.431 : Created session
+20241026-16:25:41.487 : Connecting to 127.0.0.1 on port 5001
+20241026-16:25:42.018 : Connection succeeded
+20241026-16:25:42.033 : Initiated logon request
+20241026-16:25:42.086 : Session FIX.4.2:CLIENT1->SERVER disconnecting: System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20241027-04:41:50.006 : Session FIX.4.2:CLIENT1->SERVER already disconnected: Resetting...
+20241027-04:41:50.016 : Session reset: New session
+20241027-04:41:50.017 : Created session
+20241027-04:41:50.040 : Connecting to 127.0.0.1 on port 5001
+20241027-04:41:50.561 : Connection succeeded
+20241027-04:41:50.577 : Initiated logon request
+20241027-04:41:50.655 : Received logon
+20241027-04:42:08.814 : Session FIX.4.2:CLIENT1->SERVER disconnecting: System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20241027-04:42:13.647 : Created session
+20241027-04:42:13.678 : Connecting to 127.0.0.1 on port 5001
+20241027-04:42:14.185 : Connection succeeded
+20241027-04:42:14.210 : Initiated logon request
+20241027-04:42:14.276 : Received logon
+20241027-04:45:42.334 : Session FIX.4.2:CLIENT1->SERVER already disconnected: Resetting...
+20241027-04:45:42.334 : Session reset: Out of SessionTime (Session construction)
+20241027-04:45:42.334 : Created session
+20241027-04:46:06.603 : Session FIX.4.2:CLIENT1->SERVER already disconnected: Resetting...
+20241027-04:46:06.613 : Session reset: Out of SessionTime (Session construction)
+20241027-04:46:06.613 : Created session
+20241027-04:47:04.541 : Session FIX.4.2:CLIENT1->SERVER already disconnected: Resetting...
+20241027-04:47:04.541 : Session reset: Out of SessionTime (Session construction)
+20241027-04:47:04.541 : Created session
+20241027-04:48:36.119 : Session FIX.4.2:CLIENT1->SERVER already disconnected: Resetting...
+20241027-04:48:36.119 : Session reset: Out of SessionTime (Session construction)
+20241027-04:48:36.119 : Created session
+20241027-04:49:50.607 : Created session
+20241027-04:49:50.639 : Connecting to 127.0.0.1 on port 5001
+20241027-04:49:51.155 : Connection succeeded
+20241027-04:49:51.170 : Initiated logon request
+20241027-04:49:51.233 : Received logon
+20241027-04:49:51.233 : Got resend request from 1 to 0
+20241027-04:49:51.233 : Sent SequenceReset TO: 3
+20241027-04:50:00.444 : Session FIX.4.2:CLIENT1->SERVER disconnecting: System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20241027-04:54:40.412 : Session FIX.4.2:CLIENT1->SERVER already disconnected: Resetting...
+20241027-04:54:40.426 : Session reset: Out of SessionTime (Session construction)
+20241027-04:54:40.426 : Created session
+20241027-04:54:55.045 : Created session
+20241027-04:54:55.060 : Connecting to 127.0.0.1 on port 5001
+20241027-04:54:55.590 : Connection succeeded
+20241027-04:54:55.606 : Initiated logon request
+20241027-04:54:55.684 : Session FIX.4.2:CLIENT1->SERVER disconnecting: Received msg type '5' when not logged on
+20241027-04:55:22.877 : Created session
+20241027-04:55:22.924 : Connecting to 127.0.0.1 on port 5001
+20241027-04:55:23.445 : Connection succeeded
+20241027-04:55:23.461 : Initiated logon request
+20241027-04:55:23.511 : Session FIX.4.2:CLIENT1->SERVER disconnecting: Received msg type '5' when not logged on
+20241027-04:55:37.078 : Created session
+20241027-04:55:57.293 : Created session
+20241027-04:55:57.337 : Connecting to 127.0.0.1 on port 5001
+20241027-04:55:57.878 : Connection succeeded
+20241027-04:55:57.896 : Initiated logon request
+20241027-04:55:57.952 : Received logon
+20241027-04:55:57.952 : MsgSeqNum too high, expecting 1 but received 6
+20241027-04:55:57.952 : Sent ResendRequest FROM: 1 TO: 0
+20241027-04:55:57.952 : Got resend request from 3 to 0
+20241027-04:55:57.968 : Sent SequenceReset TO: 6
+20241027-04:55:57.969 : ResendRequest for messages FROM: 1 TO: 0 has been satisfied.
+20241027-04:55:57.969 : Received SequenceReset FROM: 1 TO: 3
+20241027-04:55:57.969 : Received SequenceReset FROM: 4 TO: 8
+20241027-04:56:18.133 : Session FIX.4.2:CLIENT1->SERVER disconnecting: System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20241027-11:24:18.478 : Created session
+20241027-11:24:18.509 : Connecting to 127.0.0.1 on port 5001
+20241027-11:24:19.027 : Connection succeeded
+20241027-11:24:19.042 : Initiated logon request
+20241027-11:24:19.089 : Received logon
+20241027-11:24:19.101 : Got resend request from 5 to 0
+20241027-11:24:19.101 : Sent SequenceReset TO: 7
+20241027-11:25:04.066 : Created session
+20241027-11:25:04.112 : Connecting to 127.0.0.1 on port 5001
+20241027-11:25:04.654 : Connection succeeded
+20241027-11:25:04.670 : Initiated logon request
+20241027-11:25:04.732 : Received logon
+20241027-11:25:24.044 : Session FIX.4.2:CLIENT1->SERVER disconnecting: System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20241027-11:25:49.008 : Created session
+20241027-11:25:49.039 : Connecting to 127.0.0.1 on port 5001
+20241027-11:25:49.571 : Connection succeeded
+20241027-11:25:49.587 : Initiated logon request
+20241027-11:25:49.649 : Received logon
+20241027-11:27:01.038 : Created session
+20241027-11:27:01.053 : Connecting to 127.0.0.1 on port 5001
+20241027-11:27:01.570 : Connection succeeded
+20241027-11:27:01.594 : Initiated logon request
+20241027-11:27:01.664 : Received logon
+20241027-11:27:17.075 : Session FIX.4.2:CLIENT1->SERVER disconnecting: System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20241027-11:28:00.731 : Created session
+20241027-11:28:00.747 : Connecting to 127.0.0.1 on port 5001
+20241027-11:28:01.294 : Connection succeeded
+20241027-11:28:01.310 : Initiated logon request
+20241027-11:28:01.372 : Received logon
+20241027-11:28:20.392 : Created session
+20241027-11:28:20.423 : Connecting to 127.0.0.1 on port 5001
+20241027-11:28:20.939 : Connection succeeded
+20241027-11:28:20.954 : Initiated logon request
+20241027-11:28:21.022 : Received logon
+20241027-11:28:21.028 : Got resend request from 16 to 0
+20241027-11:28:21.028 : Sent SequenceReset TO: 18
+20241027-11:28:32.035 : Session FIX.4.2:CLIENT1->SERVER disconnecting: System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20241027-12:43:21.770 : Created session
+20241027-12:43:21.827 : Connecting to 127.0.0.1 on port 5001
+20241027-12:43:22.383 : Connection succeeded
+20241027-12:43:22.405 : Initiated logon request
+20241027-12:43:22.462 : Received logon
+20241027-12:46:52.953 : Created session
+20241027-12:46:52.973 : Connecting to 127.0.0.1 on port 5001
+20241027-12:46:53.514 : Connection succeeded
+20241027-12:46:53.533 : Initiated logon request
+20241027-12:46:53.583 : Received logon
+20241027-12:47:12.927 : Session FIX.4.2:CLIENT1->SERVER disconnecting: System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20241027-12:48:29.156 : Created session
+20241027-12:48:29.169 : Connecting to 127.0.0.1 on port 5001
+20241027-12:48:29.705 : Connection succeeded
+20241027-12:48:29.722 : Initiated logon request
+20241027-12:48:29.780 : Received logon
+20241027-12:48:36.812 : Session FIX.4.2:CLIENT1->SERVER disconnecting: System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20241027-12:48:42.771 : Created session
+20241027-12:48:42.821 : Connecting to 127.0.0.1 on port 5001
+20241027-12:48:43.329 : Connection succeeded
+20241027-12:48:43.345 : Initiated logon request
+20241027-12:48:43.400 : Received logon
+20241027-12:54:49.158 : Created session
+20241027-12:54:49.174 : Connecting to 127.0.0.1 on port 5001
+20241027-12:54:49.699 : Connection succeeded
+20241027-12:54:49.715 : Initiated logon request
+20241027-12:54:49.779 : Received logon
+20241027-12:55:02.426 : Session FIX.4.2:CLIENT1->SERVER disconnecting: System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20241027-13:24:22.091 : Created session
+20241027-13:24:22.107 : Connecting to 127.0.0.1 on port 5001
+20241027-13:24:22.623 : Connection succeeded
+20241027-13:24:22.639 : Initiated logon request
+20241027-13:24:22.717 : Received logon
+20241028-01:37:05.969 : Session FIX.4.2:CLIENT1->SERVER already disconnected: Resetting...
+20241028-01:37:05.981 : Session reset: New session
+20241028-01:37:05.981 : Created session
+20241028-01:37:06.024 : Connecting to 127.0.0.1 on port 5001
+20241028-01:37:06.540 : Connection succeeded
+20241028-01:37:06.574 : Initiated logon request
+20241028-01:37:06.643 : Received logon
+20241028-01:37:12.154 : Session FIX.4.2:CLIENT1->SERVER disconnecting: System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20241028-01:39:52.352 : Created session
+20241028-01:39:52.401 : Connecting to 127.0.0.1 on port 5001
+20241028-01:39:52.920 : Connection succeeded
+20241028-01:39:52.941 : Initiated logon request
+20241028-01:39:53.122 : Received logon
+20241028-01:40:44.052 : Created session
+20241028-01:40:44.112 : Connecting to 127.0.0.1 on port 5001
+20241028-01:40:44.624 : Connection succeeded
+20241028-01:40:44.649 : Initiated logon request
+20241028-01:40:44.832 : Received logon
+20241028-01:40:49.892 : Session FIX.4.2:CLIENT1->SERVER disconnecting: System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20241028-01:40:56.052 : Created session
+20241028-01:40:56.072 : Connecting to 127.0.0.1 on port 5001
+20241028-01:40:56.623 : Connection succeeded
+20241028-01:40:56.652 : Initiated logon request
+20241028-01:40:56.737 : Received logon
+20241028-01:43:51.197 : Created session
+20241028-01:43:51.217 : Connecting to 127.0.0.1 on port 5001
+20241028-01:43:51.739 : Connection succeeded
+20241028-01:43:51.781 : Initiated logon request
+20241028-01:43:51.877 : Received logon
+20241028-01:43:51.887 : Got resend request from 8 to 0
+20241028-01:43:51.896 : Sent SequenceReset TO: 10
+20241028-01:43:57.630 : Created session
+20241028-01:43:57.657 : Connecting to 127.0.0.1 on port 5001
+20241028-01:43:58.172 : Connection succeeded
+20241028-01:43:58.197 : Initiated logon request
+20241028-01:43:58.256 : Received logon
+20241028-01:43:58.263 : Got resend request from 8 to 0
+20241028-01:43:58.267 : Sent SequenceReset TO: 11
+20241028-01:46:23.797 : Created session
+20241028-01:46:23.851 : Connecting to 127.0.0.1 on port 5001
+20241028-01:46:24.374 : Connection succeeded
+20241028-01:46:24.397 : Initiated logon request
+20241028-01:46:24.603 : Received logon
+20241028-01:46:24.609 : Got resend request from 8 to 0
+20241028-01:46:24.609 : Sent SequenceReset TO: 12
+20241028-01:48:22.429 : Session FIX.4.2:CLIENT1->SERVER disconnecting: System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20241028-01:48:32.577 : Created session
+20241028-01:48:32.597 : Connecting to 127.0.0.1 on port 5001
+20241028-01:48:33.120 : Connection succeeded
+20241028-01:48:33.142 : Initiated logon request
+20241028-01:48:33.267 : Received logon
+20241028-01:50:16.592 : Created session
+20241028-01:50:16.617 : Connecting to 127.0.0.1 on port 5001
+20241028-01:50:17.129 : Connection succeeded
+20241028-01:50:17.157 : Initiated logon request
+20241028-01:50:17.247 : Received logon
+20241028-01:50:25.291 : Session FIX.4.2:CLIENT1->SERVER disconnecting: System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20241028-01:50:29.317 : Created session
+20241028-01:50:29.340 : Connecting to 127.0.0.1 on port 5001
+20241028-01:50:29.867 : Connection succeeded
+20241028-01:50:29.922 : Initiated logon request
+20241028-01:50:30.000 : Received logon
+20241028-01:51:19.657 : Session FIX.4.2:CLIENT1->SERVER disconnecting: System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20241028-01:53:22.500 : Created session
+20241028-01:53:22.522 : Connecting to 127.0.0.1 on port 5001
+20241028-01:53:23.047 : Connection succeeded
+20241028-01:53:23.062 : Initiated logon request
+20241028-01:53:23.117 : Received logon
+20241028-01:55:10.117 : Created session
+20241028-01:55:10.177 : Connecting to 127.0.0.1 on port 5001
+20241028-01:55:10.714 : Connection succeeded
+20241028-01:55:10.737 : Initiated logon request
+20241028-01:55:10.927 : Received logon
+20241028-01:55:10.953 : Got resend request from 25 to 0
+20241028-01:55:10.957 : Sent SequenceReset TO: 27
+20241028-01:56:08.354 : Created session
+20241028-01:56:08.371 : Connecting to 127.0.0.1 on port 5001
+20241028-01:56:08.894 : Connection succeeded
+20241028-01:56:08.911 : Initiated logon request
+20241028-01:56:08.971 : Received logon
+20241028-01:56:08.974 : Got resend request from 27 to 0
+20241028-01:56:08.978 : Sent SequenceReset TO: 29
+20241028-01:57:21.745 : Session FIX.4.2:CLIENT1->SERVER disconnecting: System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20241028-01:58:07.541 : Created session
+20241028-01:58:07.603 : Connecting to 127.0.0.1 on port 5001
+20241028-01:58:08.115 : Connection succeeded
+20241028-01:58:08.141 : Initiated logon request
+20241028-01:58:08.221 : Received logon
+20241028-02:00:57.397 : Created session
+20241028-02:00:57.454 : Connecting to 127.0.0.1 on port 5001
+20241028-02:00:57.977 : Connection succeeded
+20241028-02:00:58.007 : Initiated logon request
+20241028-02:00:58.127 : Received logon
+20241028-02:01:18.317 : Session FIX.4.2:CLIENT1->SERVER disconnecting: System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20241028-02:01:23.962 : Created session
+20241028-02:01:23.987 : Connecting to 127.0.0.1 on port 5001
+20241028-02:01:24.499 : Connection succeeded
+20241028-02:01:24.527 : Initiated logon request
+20241028-02:01:24.632 : Received logon
+20241028-02:02:19.977 : Session FIX.4.2:CLIENT1->SERVER disconnecting: System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20241028-02:03:37.181 : Created session
+20241028-02:03:37.207 : Connecting to 127.0.0.1 on port 5001
+20241028-02:03:37.721 : Connection succeeded
+20241028-02:03:37.752 : Initiated logon request
+20241028-02:03:37.858 : Received logon
+20241028-02:04:25.300 : Session FIX.4.2:CLIENT1->SERVER disconnecting: System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20241028-02:07:14.859 : Created session
+20241028-02:07:14.884 : Connecting to 127.0.0.1 on port 5001
+20241028-02:07:15.409 : Connection succeeded
+20241028-02:07:15.439 : Initiated logon request
+20241028-02:07:15.564 : Received logon
+20241028-02:12:38.319 : Created session
+20241028-02:12:38.374 : Connecting to 127.0.0.1 on port 5001
+20241028-02:12:38.898 : Connection succeeded
+20241028-02:12:38.925 : Initiated logon request
+20241028-02:12:39.004 : Received logon
+20241028-02:12:39.014 : Got resend request from 44 to 0
+20241028-02:12:39.014 : Sent SequenceReset TO: 46
+20241028-02:14:26.594 : Session FIX.4.2:CLIENT1->SERVER disconnecting: System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20241028-02:21:52.331 : Created session
+20241028-02:21:52.373 : Connecting to 127.0.0.1 on port 5001
+20241028-02:21:52.890 : Connection succeeded
+20241028-02:21:52.910 : Initiated logon request
+20241028-02:21:52.963 : Received logon
+20241028-02:23:16.687 : Session FIX.4.2:CLIENT1->SERVER disconnecting: System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20241028-02:23:36.975 : Created session
+20241028-02:23:36.997 : Connecting to 127.0.0.1 on port 5001
+20241028-02:23:37.512 : Connection succeeded
+20241028-02:23:37.532 : Initiated logon request
+20241028-02:23:37.598 : Received logon
+20241028-02:25:44.903 : Created session
+20241028-02:25:44.954 : Connecting to 127.0.0.1 on port 5001
+20241028-02:25:45.470 : Connection succeeded
+20241028-02:25:45.489 : Initiated logon request
+20241028-02:25:45.554 : Received logon
+20241028-02:25:52.908 : Session FIX.4.2:CLIENT1->SERVER disconnecting: System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20241028-02:26:04.785 : Created session
+20241028-02:26:04.809 : Connecting to 127.0.0.1 on port 5001
+20241028-02:26:05.328 : Connection succeeded
+20241028-02:26:05.353 : Initiated logon request
+20241028-02:26:05.432 : Received logon
+20241028-02:26:41.826 : Created session
+20241028-02:26:41.878 : Connecting to 127.0.0.1 on port 5001
+20241028-02:26:42.423 : Connection succeeded
+20241028-02:26:42.442 : Initiated logon request
+20241028-02:26:42.495 : Received logon
+20241028-02:30:06.608 : Created session
+20241028-02:30:06.654 : Connecting to 127.0.0.1 on port 5001
+20241028-02:30:07.204 : Connection succeeded
+20241028-02:30:07.228 : Initiated logon request
+20241028-02:30:07.312 : Received logon
+20241028-02:30:11.800 : Session FIX.4.2:CLIENT1->SERVER disconnecting: System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20241028-02:33:01.864 : Created session
+20241028-02:33:01.884 : Connecting to 127.0.0.1 on port 5001
+20241028-02:33:02.393 : Connection succeeded
+20241028-02:33:02.416 : Initiated logon request
+20241028-02:33:02.477 : Received logon
+20241028-02:44:12.721 : Session FIX.4.2:CLIENT1->SERVER disconnecting: System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20241028-02:44:38.521 : Created session
+20241028-02:44:38.544 : Connecting to 127.0.0.1 on port 5001
+20241028-02:44:39.054 : Connection succeeded
+20241028-02:44:39.070 : Initiated logon request
+20241028-02:44:39.144 : Received logon
+20241028-02:53:33.863 : Created session
+20241028-02:53:33.884 : Connecting to 127.0.0.1 on port 5001
+20241028-02:53:34.395 : Connection succeeded
+20241028-02:53:34.422 : Initiated logon request
+20241028-02:53:34.502 : Received logon
+20241028-02:53:52.284 : Session FIX.4.2:CLIENT1->SERVER disconnecting: System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20241028-02:55:04.714 : Created session
+20241028-02:55:04.731 : Connecting to 127.0.0.1 on port 5001
+20241028-02:55:05.247 : Connection succeeded
+20241028-02:55:05.265 : Initiated logon request
+20241028-02:55:05.329 : Received logon
+20241028-03:00:47.803 : Created session
+20241028-03:00:47.831 : Connecting to 127.0.0.1 on port 5001
+20241028-03:00:48.347 : Connection succeeded
+20241028-03:00:48.366 : Initiated logon request
+20241028-03:00:48.438 : Received logon
+20241028-04:20:18.027 : Created session
+20241028-04:20:18.050 : Connecting to 127.0.0.1 on port 5001
+20241028-04:20:18.564 : Connection succeeded
+20241028-04:20:18.593 : Initiated logon request
+20241028-04:20:18.670 : Received logon
+20241028-04:20:25.077 : Session FIX.4.2:CLIENT1->SERVER disconnecting: System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20241028-04:24:10.385 : Created session
+20241028-04:24:10.395 : Connecting to 127.0.0.1 on port 5001
+20241028-04:24:10.913 : Connection succeeded
+20241028-04:24:10.935 : Initiated logon request
+20241028-04:24:10.997 : Received logon
+20241028-04:24:21.145 : Session FIX.4.2:CLIENT1->SERVER disconnecting: System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20241028-04:26:11.965 : Created session
+20241028-04:26:11.985 : Connecting to 127.0.0.1 on port 5001
+20241028-04:26:12.503 : Connection succeeded
+20241028-04:26:12.525 : Initiated logon request
+20241028-04:26:12.592 : Received logon
+20241028-04:26:32.335 : Session FIX.4.2:CLIENT1->SERVER disconnecting: System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20241028-04:26:52.985 : Created session
+20241028-04:26:53.001 : Connecting to 127.0.0.1 on port 5001
+20241028-04:26:53.520 : Connection succeeded
+20241028-04:26:53.535 : Initiated logon request
+20241028-04:26:53.595 : Received logon
+20241028-04:29:15.845 : Created session
+20241028-04:29:15.874 : Connecting to 127.0.0.1 on port 5001
+20241028-04:29:16.392 : Connection succeeded
+20241028-04:29:16.407 : Initiated logon request
+20241028-04:29:16.474 : Received logon
+20241028-04:30:27.086 : Session FIX.4.2:CLIENT1->SERVER disconnecting: System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20241028-04:30:31.332 : Created session
+20241028-04:30:31.345 : Connecting to 127.0.0.1 on port 5001
+20241028-04:30:31.864 : Connection succeeded
+20241028-04:30:31.883 : Initiated logon request
+20241028-04:30:31.968 : Received logon
+20241028-06:02:29.072 : Created session
+20241028-06:02:29.090 : Connecting to 127.0.0.1 on port 5001
+20241028-06:02:29.597 : Connection succeeded
+20241028-06:02:29.613 : Initiated logon request
+20241028-06:02:29.660 : Received logon
+20241028-06:05:03.840 : Created session
+20241028-06:05:03.860 : Connecting to 127.0.0.1 on port 5001
+20241028-06:05:04.383 : Connection succeeded
+20241028-06:05:04.400 : Initiated logon request
+20241028-06:05:04.460 : Received logon
+20241028-06:05:22.420 : Created session
+20241028-06:05:22.450 : Connecting to 127.0.0.1 on port 5001
+20241028-06:05:23.000 : Connection succeeded
+20241028-06:05:23.016 : Initiated logon request
+20241028-06:05:23.087 : Received logon
+20241028-06:05:25.600 : Session FIX.4.2:CLIENT1->SERVER disconnecting: System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20241028-06:07:41.841 : Created session
+20241028-06:07:41.861 : Connecting to 127.0.0.1 on port 5001
+20241028-06:07:42.375 : Connection succeeded
+20241028-06:07:42.400 : Initiated logon request
+20241028-06:07:42.460 : Received logon
+20241028-06:17:38.631 : Created session
+20241028-06:17:38.640 : Connecting to 127.0.0.1 on port 5001
+20241028-06:17:39.171 : Connection succeeded
+20241028-06:17:39.190 : Initiated logon request
+20241028-06:17:39.266 : Received logon
+20241028-06:17:51.058 : Created session
+20241028-06:19:34.480 : Created session
+20241028-06:19:52.008 : Created session
+20241028-06:20:00.233 : Created session
+20241028-06:20:00.281 : Connecting to 127.0.0.1 on port 5001
+20241028-06:20:00.791 : Connection succeeded
+20241028-06:20:00.810 : Initiated logon request
+20241028-06:20:00.870 : Received logon
+20241028-06:20:29.081 : Session FIX.4.2:CLIENT1->SERVER disconnecting: System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20241028-06:20:42.709 : Created session
+20241028-06:20:42.750 : Connecting to 127.0.0.1 on port 5001
+20241028-06:20:43.294 : Connection succeeded
+20241028-06:20:43.310 : Initiated logon request
+20241028-06:20:43.376 : Received logon
+20241028-06:24:54.061 : Created session
+20241028-06:24:54.101 : Connecting to 127.0.0.1 on port 5001
+20241028-06:24:54.618 : Connection succeeded
+20241028-06:24:54.645 : Initiated logon request
+20241028-06:24:54.700 : Received logon
+20241028-06:25:18.131 : Session FIX.4.2:CLIENT1->SERVER disconnecting: System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20241028-06:26:16.888 : Created session
+20241028-06:26:16.929 : Connecting to 127.0.0.1 on port 5001
+20241028-06:26:17.447 : Connection succeeded
+20241028-06:26:17.464 : Initiated logon request
+20241028-06:26:17.528 : Received logon
+20241028-06:27:27.710 : Created session
+20241028-06:27:27.733 : Connecting to 127.0.0.1 on port 5001
+20241028-06:27:28.240 : Connection succeeded
+20241028-06:27:28.261 : Initiated logon request
+20241028-06:27:28.335 : Received logon
+20241028-06:29:23.420 : Created session
+20241028-06:29:23.440 : Connecting to 127.0.0.1 on port 5001
+20241028-06:29:23.955 : Connection succeeded
+20241028-06:29:23.972 : Initiated logon request
+20241028-06:29:24.051 : Received logon
+20241028-06:30:31.721 : Created session
+20241028-06:30:31.740 : Connecting to 127.0.0.1 on port 5001
+20241028-06:30:32.276 : Connection succeeded
+20241028-06:30:32.300 : Initiated logon request
+20241028-06:30:32.362 : Received logon
+20241028-06:31:44.393 : Created session
+20241028-06:31:44.411 : Connecting to 127.0.0.1 on port 5001
+20241028-06:31:44.933 : Connection succeeded
+20241028-06:31:44.951 : Initiated logon request
+20241028-06:31:45.006 : Received logon
+20241028-06:32:23.370 : Created session
+20241028-06:32:23.417 : Connecting to 127.0.0.1 on port 5001
+20241028-06:32:23.925 : Connection succeeded
+20241028-06:32:23.938 : Initiated logon request
+20241028-06:32:23.976 : Received logon
+20241028-06:32:44.521 : Session FIX.4.2:CLIENT1->SERVER disconnecting: System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20241028-06:33:27.491 : Created session
+20241028-06:33:27.511 : Connecting to 127.0.0.1 on port 5001
+20241028-06:33:28.051 : Connection succeeded
+20241028-06:33:28.071 : Initiated logon request
+20241028-06:33:28.129 : Received logon
+20241028-06:35:02.081 : Created session
+20241028-06:35:02.101 : Connecting to 127.0.0.1 on port 5001
+20241028-06:35:02.617 : Connection succeeded
+20241028-06:35:02.641 : Initiated logon request
+20241028-06:35:02.714 : Received logon
+20241028-06:35:48.481 : Created session
+20241028-06:35:48.505 : Connecting to 127.0.0.1 on port 5001
+20241028-06:35:49.015 : Connection succeeded
+20241028-06:35:49.041 : Initiated logon request
+20241028-06:35:49.111 : Received logon
+20241028-06:36:04.832 : Created session
+20241028-06:36:04.871 : Connecting to 127.0.0.1 on port 5001
+20241028-06:36:05.408 : Connection succeeded
+20241028-06:36:05.431 : Initiated logon request
+20241028-06:36:05.501 : Received logon
+20241028-06:36:39.722 : Created session
+20241028-06:36:39.771 : Connecting to 127.0.0.1 on port 5001
+20241028-06:36:40.291 : Connection succeeded
+20241028-06:36:40.311 : Initiated logon request
+20241028-06:36:40.374 : Received logon
+20241028-06:36:55.761 : Created session
+20241028-06:36:55.783 : Connecting to 127.0.0.1 on port 5001
+20241028-06:36:56.302 : Connection succeeded
+20241028-06:36:56.329 : Initiated logon request
+20241028-06:36:56.399 : Received logon
+20241028-06:37:57.864 : Session FIX.4.2:CLIENT1->SERVER disconnecting: System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20241028-06:53:09.560 : Created session
+20241028-06:53:09.616 : Connecting to 127.0.0.1 on port 5001
+20241028-06:53:10.126 : Connection succeeded
+20241028-06:53:10.151 : Initiated logon request
+20241028-06:53:10.216 : Received logon
+20241028-06:55:23.201 : Created session
+20241028-06:55:23.224 : Connecting to 127.0.0.1 on port 5001
+20241028-06:55:23.742 : Connection succeeded
+20241028-06:55:23.783 : Initiated logon request
+20241028-06:55:23.852 : Received logon
+20241028-06:57:25.131 : Created session
+20241028-06:57:25.181 : Connecting to 127.0.0.1 on port 5001
+20241028-06:57:25.734 : Connection succeeded
+20241028-06:57:25.766 : Initiated logon request
+20241028-06:57:25.831 : Received logon
+20241028-06:57:44.771 : Created session
+20241028-06:57:44.791 : Connecting to 127.0.0.1 on port 5001
+20241028-06:57:45.315 : Connection succeeded
+20241028-06:57:45.331 : Initiated logon request
+20241028-06:57:45.392 : Received logon
+20241028-06:58:22.774 : Created session
+20241028-06:58:22.815 : Connecting to 127.0.0.1 on port 5001
+20241028-06:58:23.332 : Connection succeeded
+20241028-06:58:23.348 : Initiated logon request
+20241028-06:58:23.388 : Received logon
+20241028-07:00:57.061 : Created session
+20241028-07:00:57.111 : Connecting to 127.0.0.1 on port 5001
+20241028-07:00:57.628 : Connection succeeded
+20241028-07:00:57.656 : Initiated logon request
+20241028-07:00:57.723 : Received logon
+20241028-07:01:02.929 : Session FIX.4.2:CLIENT1->SERVER disconnecting: System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20241028-07:01:38.605 : Created session
+20241028-07:01:38.624 : Connecting to 127.0.0.1 on port 5001
+20241028-07:01:39.165 : Connection succeeded
+20241028-07:01:39.181 : Initiated logon request
+20241028-07:01:39.241 : Received logon
+20241028-07:05:51.361 : Created session
+20241028-07:05:51.421 : Connecting to 127.0.0.1 on port 5001
+20241028-07:05:51.928 : Connection succeeded
+20241028-07:05:51.951 : Initiated logon request
+20241028-07:05:52.024 : Received logon
+20241028-07:05:56.330 : Session FIX.4.2:CLIENT1->SERVER disconnecting: System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20241028-07:06:10.681 : Created session
+20241028-07:06:10.701 : Connecting to 127.0.0.1 on port 5001
+20241028-07:06:11.224 : Connection succeeded
+20241028-07:06:11.251 : Initiated logon request
+20241028-07:06:11.311 : Received logon
+20241028-07:28:49.798 : Created session
+20241028-07:28:49.840 : Connecting to 127.0.0.1 on port 5001
+20241028-07:28:50.359 : Connection succeeded
+20241028-07:28:50.377 : Initiated logon request
+20241028-07:28:50.438 : Received logon
+20241028-07:28:59.720 : Session FIX.4.2:CLIENT1->SERVER disconnecting: System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20241028-07:45:47.228 : Created session
+20241028-07:45:47.248 : Connecting to 127.0.0.1 on port 5001
+20241028-07:45:47.756 : Connection succeeded
+20241028-07:45:47.781 : Initiated logon request
+20241028-07:45:47.903 : Received logon
+20241028-07:45:57.338 : Created session
+20241028-07:45:57.378 : Connecting to 127.0.0.1 on port 5001
+20241028-07:48:28.948 : Created session
+20241028-07:48:28.998 : Connecting to 127.0.0.1 on port 5001
+20241028-07:48:29.518 : Connection succeeded
+20241028-07:48:29.578 : Initiated logon request
+20241028-07:48:29.665 : Received logon
+20241028-07:49:29.868 : Session FIX.4.2:CLIENT1->SERVER disconnecting: System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20241028-07:51:35.873 : Created session
+20241028-07:51:35.908 : Connecting to 127.0.0.1 on port 5001
+20241028-07:51:36.463 : Connection succeeded
+20241028-07:51:36.523 : Initiated logon request
+20241028-07:51:36.623 : Received logon
+20241028-07:53:25.928 : Created session
+20241028-07:53:25.948 : Connecting to 127.0.0.1 on port 5001
+20241028-07:53:26.469 : Connection succeeded
+20241028-07:53:26.501 : Initiated logon request
+20241028-07:53:26.577 : Received logon
+20241028-07:53:37.844 : Session FIX.4.2:CLIENT1->SERVER disconnecting: System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20241028-07:53:47.616 : Created session
+20241028-07:53:47.640 : Connecting to 127.0.0.1 on port 5001
+20241028-07:53:48.160 : Connection succeeded
+20241028-07:53:48.178 : Initiated logon request
+20241028-07:53:48.258 : Received logon
+20241028-07:55:34.156 : Session FIX.4.2:CLIENT1->SERVER disconnecting: System.Net.Sockets.SocketException (0x80004005): An existing connection was forcibly closed by the remote host
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20241028-07:55:49.725 : Created session
+20241028-07:55:49.748 : Connecting to 127.0.0.1 on port 5001
+20241028-07:55:50.268 : Connection succeeded
+20241028-07:55:50.298 : Initiated logon request
+20241028-07:55:50.373 : Received logon
+20241028-08:01:12.758 : Created session
+20241028-08:01:12.787 : Connecting to 127.0.0.1 on port 5001
+20241028-08:01:13.338 : Connection succeeded
+20241028-08:01:13.358 : Initiated logon request
+20241028-08:01:13.418 : Received logon
+20241028-08:12:22.193 : Created session
+20241028-08:12:22.218 : Connecting to 127.0.0.1 on port 5001
+20241028-08:12:22.733 : Connection succeeded
+20241028-08:12:22.815 : Initiated logon request
+20241028-08:12:23.014 : Received logon
+20241028-08:13:26.077 : Created session
+20241028-08:13:26.095 : Connecting to 127.0.0.1 on port 5001
+20241028-08:13:26.647 : Connection succeeded
+20241028-08:13:26.685 : Initiated logon request
+20241028-08:13:26.748 : Received logon

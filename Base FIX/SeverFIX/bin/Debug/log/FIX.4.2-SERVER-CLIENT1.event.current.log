@@ -1,0 +1,693 @@
+20241026-07:11:02.297 : Created session
+20241026-07:11:02.620 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:56302
+20241026-07:11:02.621 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241026-07:11:02.621 : Received logon
+20241026-07:11:02.637 : Responding to logon request
+20241026-07:11:02.637 : MsgSeqNum too high, expecting 1 but received 2
+20241026-07:11:02.637 : Sent ResendRequest FROM: 1 TO: 0
+20241026-07:11:02.672 : ResendRequest for messages FROM: 1 TO: 0 has been satisfied.
+20241026-07:11:02.674 : Processing queued message: 2
+20241026-07:15:41.756 : Created session
+20241026-07:15:42.226 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:56353
+20241026-07:15:42.226 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241026-07:15:42.250 : Received logon
+20241026-07:15:42.270 : Responding to logon request
+20241026-07:17:49.383 : Created session
+20241026-07:17:49.796 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:56372
+20241026-07:17:49.796 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241026-07:17:49.806 : Received logon
+20241026-07:17:49.816 : Responding to logon request
+20241026-07:18:40.950 : Received logout request
+20241026-07:18:40.957 : Sending logout response
+20241026-07:18:40.957 : Session FIX.4.2:SERVER->CLIENT1 disconnecting: Received logout request
+20241026-07:19:30.526 : Created session
+20241026-07:19:31.006 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:56375
+20241026-07:19:31.006 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241026-07:19:31.023 : Received logon
+20241026-07:19:31.029 : Responding to logon request
+20241026-07:22:32.748 : Created session
+20241026-07:22:33.176 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:56381
+20241026-07:22:33.176 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241026-07:22:33.191 : Received logon
+20241026-07:22:33.201 : Responding to logon request
+20241026-07:23:06.282 : Created session
+20241026-07:23:06.736 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:56384
+20241026-07:23:06.736 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241026-07:23:06.756 : Received logon
+20241026-07:23:06.766 : Responding to logon request
+20241026-07:27:00.136 : Created session
+20241026-07:27:00.474 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:56392
+20241026-07:27:00.474 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241026-07:27:00.486 : Received logon
+20241026-07:27:00.497 : Responding to logon request
+20241026-07:30:48.516 : Created session
+20241026-07:30:48.929 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:56397
+20241026-07:30:48.929 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241026-07:30:48.941 : Received logon
+20241026-07:30:48.946 : Responding to logon request
+20241026-07:31:53.655 : Session FIX.4.2:SERVER->CLIENT1 disconnecting: Socket exception (127.0.0.1:56397): An existing connection was forcibly closed by the remote host
+20241026-07:38:09.834 : Created session
+20241026-07:38:10.210 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:56417
+20241026-07:38:10.210 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241026-07:38:10.222 : Received logon
+20241026-07:38:10.231 : Responding to logon request
+20241026-07:38:43.777 : Session FIX.4.2:SERVER->CLIENT1 disconnecting: Socket exception (127.0.0.1:56417): An existing connection was forcibly closed by the remote host
+20241026-07:43:35.922 : Created session
+20241026-07:43:36.291 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:56430
+20241026-07:43:36.291 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241026-07:43:36.306 : Received logon
+20241026-07:43:36.316 : Responding to logon request
+20241026-07:43:54.048 : Session FIX.4.2:SERVER->CLIENT1 disconnecting: Socket exception (127.0.0.1:56430): An existing connection was forcibly closed by the remote host
+20241026-15:50:23.355 : Created session
+20241026-15:50:23.779 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:56916
+20241026-15:50:23.779 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241026-15:50:23.795 : Received logon
+20241026-15:50:23.812 : Responding to logon request
+20241026-15:51:11.112 : Session FIX.4.2:SERVER->CLIENT1 disconnecting: Socket exception (127.0.0.1:56916): An existing connection was forcibly closed by the remote host
+20241026-15:58:54.023 : Created session
+20241026-15:58:54.487 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:56940
+20241026-15:58:54.487 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241026-15:58:54.498 : Received logon
+20241026-15:58:54.515 : Responding to logon request
+20241026-15:59:13.009 : Session FIX.4.2:SERVER->CLIENT1 disconnecting: Socket exception (127.0.0.1:56940): An existing connection was forcibly closed by the remote host
+20241026-16:00:01.245 : Created session
+20241026-16:00:01.695 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:56955
+20241026-16:00:01.695 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241026-16:00:01.715 : Received logon
+20241026-16:00:01.725 : Responding to logon request
+20241026-16:00:22.530 : Session FIX.4.2:SERVER->CLIENT1 disconnecting: Socket exception (127.0.0.1:56955): An existing connection was forcibly closed by the remote host
+20241026-16:01:59.584 : Created session
+20241026-16:02:00.006 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:56962
+20241026-16:02:00.006 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241026-16:02:00.037 : Received logon
+20241026-16:02:00.056 : Responding to logon request
+20241026-16:02:16.398 : Created session
+20241026-16:02:16.871 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:56964
+20241026-16:02:16.871 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241026-16:02:16.882 : Received logon
+20241026-16:02:16.882 : Responding to logon request
+20241026-16:02:17.981 : Session FIX.4.2:SERVER->CLIENT1 disconnecting: Socket exception (127.0.0.1:56964): An existing connection was forcibly closed by the remote host
+20241026-16:02:36.087 : Created session
+20241026-16:02:36.510 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:56965
+20241026-16:02:36.510 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241026-16:02:36.525 : Received logon
+20241026-16:02:36.540 : Responding to logon request
+20241026-16:03:16.282 : Created session
+20241026-16:03:16.735 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:56967
+20241026-16:03:16.735 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241026-16:03:16.750 : Received logon
+20241026-16:03:16.766 : Responding to logon request
+20241026-16:03:50.020 : Created session
+20241026-16:03:50.422 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:56976
+20241026-16:03:50.422 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241026-16:03:50.437 : Received logon
+20241026-16:03:50.453 : Responding to logon request
+20241026-16:04:23.265 : Created session
+20241026-16:04:23.671 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:56979
+20241026-16:04:23.671 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241026-16:04:23.687 : Received logon
+20241026-16:04:23.709 : Responding to logon request
+20241026-16:11:38.959 : Created session
+20241026-16:11:39.368 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:56998
+20241026-16:11:39.368 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241026-16:11:39.397 : Received logon
+20241026-16:11:39.397 : Responding to logon request
+20241026-16:21:22.082 : Created session
+20241026-16:21:22.348 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:57053
+20241026-16:21:22.348 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241026-16:21:22.364 : Received logon
+20241026-16:21:22.379 : Responding to logon request
+20241026-16:22:24.142 : Created session
+20241026-16:22:24.584 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:57061
+20241026-16:22:24.584 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241026-16:22:24.604 : Received logon
+20241026-16:22:24.618 : Responding to logon request
+20241026-16:22:37.310 : Received logout request
+20241026-16:22:37.310 : Sending logout response
+20241026-16:22:37.310 : Session FIX.4.2:SERVER->CLIENT1 disconnecting: Received logout request
+20241026-16:25:41.605 : Session FIX.4.2:SERVER->CLIENT1 already disconnected: Resetting...
+20241026-16:25:41.605 : Session reset: Out of SessionTime (Session construction)
+20241026-16:25:41.605 : Created session
+20241026-16:25:42.049 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:57285
+20241026-16:25:42.049 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241026-16:25:42.049 : Session FIX.4.2:SERVER->CLIENT1 already disconnected: Resetting...
+20241026-16:25:42.057 : Session reset: Out of SessionTime (Session.SetResponder)
+20241026-16:25:42.057 : Session FIX.4.2:SERVER->CLIENT1 disconnecting: Resetting...
+20241026-16:25:42.070 : Session reset: Out of SessionTime (Session.Next(message))
+20241027-04:41:50.219 : Created session
+20241027-04:41:50.593 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:58404
+20241027-04:41:50.593 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241027-04:41:50.624 : Received logon
+20241027-04:41:50.624 : Responding to logon request
+20241027-04:42:13.836 : Created session
+20241027-04:42:14.219 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:58408
+20241027-04:42:14.219 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241027-04:42:14.231 : Received logon
+20241027-04:42:14.247 : Responding to logon request
+20241027-04:42:18.990 : Session FIX.4.2:SERVER->CLIENT1 disconnecting: Socket exception (127.0.0.1:58408): An existing connection was forcibly closed by the remote host
+20241027-04:45:42.462 : Session FIX.4.2:SERVER->CLIENT1 already disconnected: Resetting...
+20241027-04:45:42.477 : Session reset: Out of SessionTime (Session construction)
+20241027-04:45:42.477 : Created session
+20241027-04:47:04.686 : Session FIX.4.2:SERVER->CLIENT1 already disconnected: Resetting...
+20241027-04:47:04.702 : Session reset: Out of SessionTime (Session construction)
+20241027-04:47:04.702 : Created session
+20241027-04:48:36.275 : Session FIX.4.2:SERVER->CLIENT1 already disconnected: Resetting...
+20241027-04:48:36.275 : Session reset: Out of SessionTime (Session construction)
+20241027-04:48:36.275 : Created session
+20241027-04:49:50.764 : Created session
+20241027-04:49:51.170 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:58489
+20241027-04:49:51.170 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241027-04:49:51.201 : Received logon
+20241027-04:49:51.201 : Responding to logon request
+20241027-04:49:51.201 : MsgSeqNum too high, expecting 1 but received 2
+20241027-04:49:51.201 : Sent ResendRequest FROM: 1 TO: 0
+20241027-04:49:51.233 : ResendRequest for messages FROM: 1 TO: 0 has been satisfied.
+20241027-04:49:51.255 : Processing queued message: 2
+20241027-04:54:40.554 : Created session
+20241027-04:54:55.184 : Created session
+20241027-04:54:55.637 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:58510
+20241027-04:54:55.637 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241027-04:54:55.668 : Verify failed: MsgSeqNum too low, expecting 3 but received 1
+20241027-04:54:55.668 : Session FIX.4.2:SERVER->CLIENT1 disconnecting: Verify failed: MsgSeqNum too low, expecting 3 but received 1
+20241027-04:55:23.020 : Created session
+20241027-04:55:23.477 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:58514
+20241027-04:55:23.477 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241027-04:55:23.492 : Verify failed: MsgSeqNum too low, expecting 3 but received 2
+20241027-04:55:23.492 : Session FIX.4.2:SERVER->CLIENT1 disconnecting: Verify failed: MsgSeqNum too low, expecting 3 but received 2
+20241027-04:55:57.420 : Created session
+20241027-04:55:57.904 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:58517
+20241027-04:55:57.904 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241027-04:55:57.933 : Received logon
+20241027-04:55:57.937 : Responding to logon request
+20241027-04:55:57.937 : MsgSeqNum too high, expecting 3 but received 4
+20241027-04:55:57.942 : Sent ResendRequest FROM: 3 TO: 0
+20241027-04:55:57.952 : Got resend request from 1 to 0
+20241027-04:55:57.952 : Sent SequenceReset TO: 3
+20241027-04:55:57.952 : Sent SequenceReset TO: 8
+20241027-04:55:57.968 : ResendRequest for messages FROM: 3 TO: 0 has been satisfied.
+20241027-04:55:57.969 : Processing queued message: 4
+20241027-11:24:18.684 : Created session
+20241027-11:24:19.042 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:59092
+20241027-11:24:19.042 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241027-11:24:19.058 : Received logon
+20241027-11:24:19.074 : Responding to logon request
+20241027-11:24:19.074 : MsgSeqNum too high, expecting 5 but received 6
+20241027-11:24:19.074 : Sent ResendRequest FROM: 5 TO: 0
+20241027-11:24:19.107 : ResendRequest for messages FROM: 5 TO: 0 has been satisfied.
+20241027-11:24:19.107 : Received SequenceReset FROM: 5 TO: 7
+20241027-11:24:29.011 : Session FIX.4.2:SERVER->CLIENT1 disconnecting: Socket exception (127.0.0.1:59092): An existing connection was forcibly closed by the remote host
+20241027-11:25:04.201 : Created session
+20241027-11:25:04.685 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:59104
+20241027-11:25:04.685 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241027-11:25:04.701 : Received logon
+20241027-11:25:04.717 : Responding to logon request
+20241027-11:25:49.149 : Created session
+20241027-11:25:49.602 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:59107
+20241027-11:25:49.602 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241027-11:25:49.618 : Received logon
+20241027-11:25:49.634 : Responding to logon request
+20241027-11:27:01.194 : Created session
+20241027-11:27:01.605 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:59124
+20241027-11:27:01.605 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241027-11:27:01.617 : Received logon
+20241027-11:27:01.633 : Responding to logon request
+20241027-11:28:00.872 : Created session
+20241027-11:28:01.325 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:59127
+20241027-11:28:01.325 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241027-11:28:01.341 : Received logon
+20241027-11:28:01.357 : Responding to logon request
+20241027-11:28:20.548 : Created session
+20241027-11:28:20.970 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:59129
+20241027-11:28:20.970 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241027-11:28:20.986 : Received logon
+20241027-11:28:20.986 : Responding to logon request
+20241027-11:28:21.001 : MsgSeqNum too high, expecting 16 but received 17
+20241027-11:28:21.001 : Sent ResendRequest FROM: 16 TO: 0
+20241027-11:28:21.028 : ResendRequest for messages FROM: 16 TO: 0 has been satisfied.
+20241027-11:28:21.043 : Processing queued message: 17
+20241027-12:43:21.990 : Created session
+20241027-12:43:22.415 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:59313
+20241027-12:43:22.415 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241027-12:43:22.431 : Received logon
+20241027-12:43:22.447 : Responding to logon request
+20241027-12:44:01.243 : Session FIX.4.2:SERVER->CLIENT1 disconnecting: Socket exception (127.0.0.1:59313): An existing connection was forcibly closed by the remote host
+20241027-12:46:53.075 : Created session
+20241027-12:46:53.547 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:59336
+20241027-12:46:53.547 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241027-12:46:53.563 : Received logon
+20241027-12:46:53.565 : Responding to logon request
+20241027-12:48:29.327 : Created session
+20241027-12:48:29.737 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:59342
+20241027-12:48:29.737 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241027-12:48:29.753 : Received logon
+20241027-12:48:29.753 : Responding to logon request
+20241027-12:48:42.936 : Created session
+20241027-12:48:43.345 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:59345
+20241027-12:48:43.360 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241027-12:48:43.377 : Received logon
+20241027-12:48:43.379 : Responding to logon request
+20241027-12:49:24.193 : Session FIX.4.2:SERVER->CLIENT1 disconnecting: Socket exception (127.0.0.1:59345): An existing connection was forcibly closed by the remote host
+20241027-12:54:49.320 : Created session
+20241027-12:54:49.731 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:59366
+20241027-12:54:49.731 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241027-12:54:49.749 : Received logon
+20241027-12:54:49.763 : Responding to logon request
+20241027-13:24:22.264 : Created session
+20241027-13:24:22.662 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:59470
+20241027-13:24:22.662 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241027-13:24:22.686 : Received logon
+20241027-13:24:22.686 : Responding to logon request
+20241027-13:24:44.193 : Session FIX.4.2:SERVER->CLIENT1 disconnecting: Socket exception (127.0.0.1:59470): An existing connection was forcibly closed by the remote host
+20241028-01:37:06.214 : Session FIX.4.2:SERVER->CLIENT1 already disconnected: Resetting...
+20241028-01:37:06.224 : Session reset: New session
+20241028-01:37:06.229 : Created session
+20241028-01:37:06.589 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:54950
+20241028-01:37:06.589 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241028-01:37:06.604 : Received logon
+20241028-01:37:06.620 : Responding to logon request
+20241028-01:39:52.546 : Created session
+20241028-01:39:53.055 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:54978
+20241028-01:39:53.055 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241028-01:39:53.082 : Received logon
+20241028-01:39:53.091 : Responding to logon request
+20241028-01:40:30.116 : Session FIX.4.2:SERVER->CLIENT1 disconnecting: Socket exception (127.0.0.1:54978): An existing connection was forcibly closed by the remote host
+20241028-01:40:44.178 : Created session
+20241028-01:40:44.782 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:54980
+20241028-01:40:44.782 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241028-01:40:44.801 : Received logon
+20241028-01:40:44.812 : Responding to logon request
+20241028-01:40:56.297 : Created session
+20241028-01:40:56.677 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:54981
+20241028-01:40:56.677 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241028-01:40:56.702 : Received logon
+20241028-01:40:56.708 : Responding to logon request
+20241028-01:43:51.308 : Created session
+20241028-01:43:51.804 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:54991
+20241028-01:43:51.804 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241028-01:43:51.837 : Received logon
+20241028-01:43:51.853 : Responding to logon request
+20241028-01:43:51.854 : MsgSeqNum too high, expecting 8 but received 9
+20241028-01:43:51.857 : Sent ResendRequest FROM: 8 TO: 0
+20241028-01:43:51.892 : ResendRequest for messages FROM: 8 TO: 0 has been satisfied.
+20241028-01:43:57.857 : Created session
+20241028-01:43:58.206 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:54992
+20241028-01:43:58.206 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241028-01:43:58.236 : Received logon
+20241028-01:43:58.236 : Responding to logon request
+20241028-01:43:58.236 : MsgSeqNum too high, expecting 8 but received 10
+20241028-01:43:58.247 : Sent ResendRequest FROM: 8 TO: 0
+20241028-01:43:58.270 : ResendRequest for messages FROM: 8 TO: 0 has been satisfied.
+20241028-01:46:23.952 : Created session
+20241028-01:46:24.547 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:55002
+20241028-01:46:24.547 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241028-01:46:24.568 : Received logon
+20241028-01:46:24.578 : Responding to logon request
+20241028-01:46:24.578 : MsgSeqNum too high, expecting 8 but received 11
+20241028-01:46:24.580 : Sent ResendRequest FROM: 8 TO: 0
+20241028-01:46:24.615 : ResendRequest for messages FROM: 8 TO: 0 has been satisfied.
+20241028-01:46:24.629 : Received SequenceReset FROM: 9 TO: 12
+20241028-01:48:32.746 : Created session
+20241028-01:48:33.177 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:55008
+20241028-01:48:33.177 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241028-01:48:33.213 : Received logon
+20241028-01:48:33.231 : Responding to logon request
+20241028-01:49:05.015 : Session FIX.4.2:SERVER->CLIENT1 disconnecting: Socket exception (127.0.0.1:55008): An existing connection was forcibly closed by the remote host
+20241028-01:50:16.788 : Created session
+20241028-01:50:17.177 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:55015
+20241028-01:50:17.178 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241028-01:50:17.207 : Received logon
+20241028-01:50:17.219 : Responding to logon request
+20241028-01:50:29.587 : Created session
+20241028-01:50:29.952 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:55020
+20241028-01:50:29.952 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241028-01:50:29.967 : Received logon
+20241028-01:50:29.977 : Responding to logon request
+20241028-01:53:22.729 : Created session
+20241028-01:53:23.077 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:55070
+20241028-01:53:23.078 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241028-01:53:23.092 : Received logon
+20241028-01:53:23.097 : Responding to logon request
+20241028-01:55:10.277 : Created session
+20241028-01:55:10.852 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:55076
+20241028-01:55:10.852 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241028-01:55:10.879 : Received logon
+20241028-01:55:10.887 : Responding to logon request
+20241028-01:55:10.887 : MsgSeqNum too high, expecting 25 but received 26
+20241028-01:55:10.892 : Sent ResendRequest FROM: 25 TO: 0
+20241028-01:55:10.957 : ResendRequest for messages FROM: 25 TO: 0 has been satisfied.
+20241028-01:55:10.957 : Received SequenceReset FROM: 25 TO: 27
+20241028-01:56:08.593 : Created session
+20241028-01:56:08.926 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:55081
+20241028-01:56:08.926 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241028-01:56:08.941 : Received logon
+20241028-01:56:08.952 : Responding to logon request
+20241028-01:56:08.952 : MsgSeqNum too high, expecting 27 but received 28
+20241028-01:56:08.952 : Sent ResendRequest FROM: 27 TO: 0
+20241028-01:56:08.981 : ResendRequest for messages FROM: 27 TO: 0 has been satisfied.
+20241028-01:56:08.989 : Processing queued message: 28
+20241028-01:58:07.726 : Created session
+20241028-01:58:08.161 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:55088
+20241028-01:58:08.161 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241028-01:58:08.181 : Received logon
+20241028-01:58:08.194 : Responding to logon request
+20241028-01:58:49.673 : Session FIX.4.2:SERVER->CLIENT1 disconnecting: Socket exception (127.0.0.1:55088): An existing connection was forcibly closed by the remote host
+20241028-02:00:57.587 : Created session
+20241028-02:00:58.052 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:55106
+20241028-02:00:58.052 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241028-02:00:58.087 : Received logon
+20241028-02:00:58.097 : Responding to logon request
+20241028-02:01:24.172 : Created session
+20241028-02:01:24.567 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:55108
+20241028-02:01:24.567 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241028-02:01:24.595 : Received logon
+20241028-02:01:24.607 : Responding to logon request
+20241028-02:03:37.377 : Created session
+20241028-02:03:37.777 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:55119
+20241028-02:03:37.777 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241028-02:03:37.817 : Received logon
+20241028-02:03:37.827 : Responding to logon request
+20241028-02:07:15.054 : Created session
+20241028-02:07:15.474 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:55123
+20241028-02:07:15.474 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241028-02:07:15.514 : Received logon
+20241028-02:07:15.528 : Responding to logon request
+20241028-02:12:38.596 : Created session
+20241028-02:12:38.945 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:55184
+20241028-02:12:38.945 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241028-02:12:38.964 : Received logon
+20241028-02:12:38.984 : Responding to logon request
+20241028-02:12:38.985 : MsgSeqNum too high, expecting 44 but received 45
+20241028-02:12:38.985 : Sent ResendRequest FROM: 44 TO: 0
+20241028-02:12:39.025 : ResendRequest for messages FROM: 44 TO: 0 has been satisfied.
+20241028-02:12:39.035 : Processing queued message: 45
+20241028-02:21:52.570 : Created session
+20241028-02:21:52.924 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:55280
+20241028-02:21:52.924 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241028-02:21:52.942 : Received logon
+20241028-02:21:52.947 : Responding to logon request
+20241028-02:23:37.131 : Created session
+20241028-02:23:37.548 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:55292
+20241028-02:23:37.549 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241028-02:23:37.569 : Received logon
+20241028-02:23:37.575 : Responding to logon request
+20241028-02:25:21.248 : Session FIX.4.2:SERVER->CLIENT1 disconnecting: Socket exception (127.0.0.1:55292): An existing connection was forcibly closed by the remote host
+20241028-02:25:45.028 : Created session
+20241028-02:25:45.502 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:55328
+20241028-02:25:45.503 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241028-02:25:45.523 : Received logon
+20241028-02:25:45.533 : Responding to logon request
+20241028-02:26:04.988 : Created session
+20241028-02:26:05.374 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:55329
+20241028-02:26:05.374 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241028-02:26:05.401 : Received logon
+20241028-02:26:05.411 : Responding to logon request
+20241028-02:26:12.877 : Session FIX.4.2:SERVER->CLIENT1 disconnecting: Socket exception (127.0.0.1:55329): An existing connection was forcibly closed by the remote host
+20241028-02:26:42.003 : Created session
+20241028-02:26:42.455 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:55337
+20241028-02:26:42.455 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241028-02:26:42.472 : Received logon
+20241028-02:26:42.477 : Responding to logon request
+20241028-02:26:58.451 : Session FIX.4.2:SERVER->CLIENT1 disconnecting: Socket exception (127.0.0.1:55337): An existing connection was forcibly closed by the remote host
+20241028-02:30:06.755 : Created session
+20241028-02:30:07.242 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:55596
+20241028-02:30:07.242 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241028-02:30:07.263 : Received logon
+20241028-02:30:07.275 : Responding to logon request
+20241028-02:30:49.286 : Created session
+20241028-02:30:59.159 : Created session
+20241028-02:31:52.004 : Created session
+20241028-02:32:30.728 : Created session
+20241028-02:33:02.008 : Created session
+20241028-02:33:02.430 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:55600
+20241028-02:33:02.430 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241028-02:33:02.449 : Received logon
+20241028-02:33:02.456 : Responding to logon request
+20241028-02:44:38.671 : Created session
+20241028-02:44:39.091 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:56004
+20241028-02:44:39.091 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241028-02:44:39.116 : Received logon
+20241028-02:44:39.121 : Responding to logon request
+20241028-02:49:38.149 : Session FIX.4.2:SERVER->CLIENT1 disconnecting: Socket exception (127.0.0.1:56004): An existing connection was forcibly closed by the remote host
+20241028-02:53:34.032 : Created session
+20241028-02:53:34.442 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:56031
+20241028-02:53:34.442 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241028-02:53:34.468 : Received logon
+20241028-02:53:34.476 : Responding to logon request
+20241028-02:55:04.857 : Created session
+20241028-02:55:05.277 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:56037
+20241028-02:55:05.277 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241028-02:55:05.299 : Received logon
+20241028-02:55:05.310 : Responding to logon request
+20241028-02:55:14.434 : Session FIX.4.2:SERVER->CLIENT1 disconnecting: Socket exception (127.0.0.1:56037): An existing connection was forcibly closed by the remote host
+20241028-03:00:48.024 : Created session
+20241028-03:00:48.380 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:56059
+20241028-03:00:48.380 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241028-03:00:48.401 : Received logon
+20241028-03:00:48.405 : Responding to logon request
+20241028-03:03:09.461 : Session FIX.4.2:SERVER->CLIENT1 disconnecting: Socket exception (127.0.0.1:56059): An existing connection was forcibly closed by the remote host
+20241028-04:20:18.188 : Created session
+20241028-04:20:18.612 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:58003
+20241028-04:20:18.612 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241028-04:20:18.636 : Received logon
+20241028-04:20:18.644 : Responding to logon request
+20241028-04:24:10.518 : Created session
+20241028-04:24:10.945 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:58035
+20241028-04:24:10.945 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241028-04:24:10.965 : Received logon
+20241028-04:24:10.965 : Responding to logon request
+20241028-04:26:12.120 : Created session
+20241028-04:26:12.540 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:58042
+20241028-04:26:12.541 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241028-04:26:12.561 : Received logon
+20241028-04:26:12.572 : Responding to logon request
+20241028-04:26:53.147 : Created session
+20241028-04:26:53.555 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:58047
+20241028-04:26:53.555 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241028-04:26:53.573 : Received logon
+20241028-04:26:53.577 : Responding to logon request
+20241028-04:27:14.697 : Session FIX.4.2:SERVER->CLIENT1 disconnecting: Socket exception (127.0.0.1:58047): An existing connection was forcibly closed by the remote host
+20241028-04:29:16.015 : Created session
+20241028-04:29:16.425 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:58135
+20241028-04:29:16.425 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241028-04:29:16.445 : Received logon
+20241028-04:29:16.455 : Responding to logon request
+20241028-04:30:31.543 : Created session
+20241028-04:30:31.913 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:58145
+20241028-04:30:31.913 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241028-04:30:31.938 : Received logon
+20241028-04:30:31.944 : Responding to logon request
+20241028-04:30:42.518 : Session FIX.4.2:SERVER->CLIENT1 disconnecting: Socket exception (127.0.0.1:58145): An existing connection was forcibly closed by the remote host
+20241028-06:02:29.325 : Created session
+20241028-06:02:29.624 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:58859
+20241028-06:02:29.624 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241028-06:02:29.635 : Received logon
+20241028-06:02:29.645 : Responding to logon request
+20241028-06:05:04.000 : Created session
+20241028-06:05:04.416 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:58867
+20241028-06:05:04.416 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241028-06:05:04.432 : Received logon
+20241028-06:05:04.440 : Responding to logon request
+20241028-06:05:22.592 : Created session
+20241028-06:05:23.031 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:58870
+20241028-06:05:23.031 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241028-06:05:23.041 : Received logon
+20241028-06:05:23.057 : Responding to logon request
+20241028-06:07:42.003 : Created session
+20241028-06:07:42.420 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:58885
+20241028-06:07:42.420 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241028-06:07:42.442 : Received logon
+20241028-06:07:42.451 : Responding to logon request
+20241028-06:07:44.414 : Session FIX.4.2:SERVER->CLIENT1 disconnecting: Socket exception (127.0.0.1:58885): An existing connection was forcibly closed by the remote host
+20241028-06:17:38.810 : Created session
+20241028-06:17:39.210 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:58937
+20241028-06:17:39.210 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241028-06:17:39.233 : Received logon
+20241028-06:17:39.241 : Responding to logon request
+20241028-06:20:00.405 : Created session
+20241028-06:20:00.829 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:58946
+20241028-06:20:00.829 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241028-06:20:00.841 : Received logon
+20241028-06:20:00.851 : Responding to logon request
+20241028-06:20:42.881 : Created session
+20241028-06:20:43.331 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:58948
+20241028-06:20:43.331 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241028-06:20:43.347 : Received logon
+20241028-06:20:43.356 : Responding to logon request
+20241028-06:24:54.225 : Created session
+20241028-06:24:54.651 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:58968
+20241028-06:24:54.651 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241028-06:24:54.671 : Received logon
+20241028-06:24:54.680 : Responding to logon request
+20241028-06:26:17.042 : Created session
+20241028-06:26:17.480 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:58976
+20241028-06:26:17.480 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241028-06:26:17.499 : Received logon
+20241028-06:26:17.507 : Responding to logon request
+20241028-06:26:34.013 : Session FIX.4.2:SERVER->CLIENT1 disconnecting: Socket exception (127.0.0.1:58976): An existing connection was forcibly closed by the remote host
+20241028-06:27:27.901 : Created session
+20241028-06:27:28.281 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:58980
+20241028-06:27:28.281 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241028-06:27:28.305 : Received logon
+20241028-06:27:28.310 : Responding to logon request
+20241028-06:28:08.021 : Session FIX.4.2:SERVER->CLIENT1 disconnecting: Socket exception (127.0.0.1:58980): An existing connection was forcibly closed by the remote host
+20241028-06:29:23.621 : Created session
+20241028-06:29:23.996 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:58988
+20241028-06:29:23.996 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241028-06:29:24.020 : Received logon
+20241028-06:29:24.034 : Responding to logon request
+20241028-06:29:57.681 : Session FIX.4.2:SERVER->CLIENT1 disconnecting: Socket exception (127.0.0.1:58988): An existing connection was forcibly closed by the remote host
+20241028-06:30:31.894 : Created session
+20241028-06:30:32.311 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:58992
+20241028-06:30:32.311 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241028-06:30:32.331 : Received logon
+20241028-06:30:32.341 : Responding to logon request
+20241028-06:31:00.185 : Session FIX.4.2:SERVER->CLIENT1 disconnecting: Socket exception (127.0.0.1:58992): An existing connection was forcibly closed by the remote host
+20241028-06:31:44.541 : Created session
+20241028-06:31:44.965 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:58996
+20241028-06:31:44.967 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241028-06:31:44.982 : Received logon
+20241028-06:31:44.984 : Responding to logon request
+20241028-06:32:23.605 : Created session
+20241028-06:32:23.947 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:58999
+20241028-06:32:23.947 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241028-06:32:23.959 : Received logon
+20241028-06:32:23.963 : Responding to logon request
+20241028-06:33:27.711 : Created session
+20241028-06:33:28.082 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:59001
+20241028-06:33:28.082 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241028-06:33:28.101 : Received logon
+20241028-06:33:28.111 : Responding to logon request
+20241028-06:35:02.256 : Created session
+20241028-06:35:02.661 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:59008
+20241028-06:35:02.661 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241028-06:35:02.684 : Received logon
+20241028-06:35:02.696 : Responding to logon request
+20241028-06:35:25.515 : Session FIX.4.2:SERVER->CLIENT1 disconnecting: Socket exception (127.0.0.1:59008): An existing connection was forcibly closed by the remote host
+20241028-06:35:48.666 : Created session
+20241028-06:35:49.051 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:59010
+20241028-06:35:49.060 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241028-06:35:49.085 : Received logon
+20241028-06:35:49.095 : Responding to logon request
+20241028-06:35:54.820 : Session FIX.4.2:SERVER->CLIENT1 disconnecting: Socket exception (127.0.0.1:59010): An existing connection was forcibly closed by the remote host
+20241028-06:36:04.993 : Created session
+20241028-06:36:05.451 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:59014
+20241028-06:36:05.451 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241028-06:36:05.471 : Received logon
+20241028-06:36:05.481 : Responding to logon request
+20241028-06:36:23.767 : Session FIX.4.2:SERVER->CLIENT1 disconnecting: Socket exception (127.0.0.1:59014): An existing connection was forcibly closed by the remote host
+20241028-06:36:39.886 : Created session
+20241028-06:36:40.325 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:59017
+20241028-06:36:40.325 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241028-06:36:40.341 : Received logon
+20241028-06:36:40.345 : Responding to logon request
+20241028-06:36:46.282 : Session FIX.4.2:SERVER->CLIENT1 disconnecting: Socket exception (127.0.0.1:59017): An existing connection was forcibly closed by the remote host
+20241028-06:36:55.959 : Created session
+20241028-06:36:56.348 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:59018
+20241028-06:36:56.349 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241028-06:36:56.367 : Received logon
+20241028-06:36:56.374 : Responding to logon request
+20241028-06:53:09.714 : Created session
+20241028-06:53:10.171 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:59104
+20241028-06:53:10.171 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241028-06:53:10.188 : Received logon
+20241028-06:53:10.192 : Responding to logon request
+20241028-06:53:28.114 : Session FIX.4.2:SERVER->CLIENT1 disconnecting: Socket exception (127.0.0.1:59104): An existing connection was forcibly closed by the remote host
+20241028-06:55:23.391 : Created session
+20241028-06:55:23.801 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:59115
+20241028-06:55:23.801 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241028-06:55:23.824 : Received logon
+20241028-06:55:23.836 : Responding to logon request
+20241028-06:57:25.261 : Created session
+20241028-06:57:25.785 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:59136
+20241028-06:57:25.785 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241028-06:57:25.801 : Received logon
+20241028-06:57:25.811 : Responding to logon request
+20241028-06:57:35.142 : Session FIX.4.2:SERVER->CLIENT1 disconnecting: Socket exception (127.0.0.1:59136): An existing connection was forcibly closed by the remote host
+20241028-06:57:44.932 : Created session
+20241028-06:57:45.346 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:59137
+20241028-06:57:45.346 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241028-06:57:45.363 : Received logon
+20241028-06:57:45.368 : Responding to logon request
+20241028-06:58:06.211 : Session FIX.4.2:SERVER->CLIENT1 disconnecting: Socket exception (127.0.0.1:59137): An existing connection was forcibly closed by the remote host
+20241028-06:58:23.044 : Created session
+20241028-06:58:23.358 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:59140
+20241028-06:58:23.358 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241028-06:58:23.370 : Received logon
+20241028-06:58:23.374 : Responding to logon request
+20241028-07:00:23.632 : Session FIX.4.2:SERVER->CLIENT1 disconnecting: Socket exception (127.0.0.1:59140): An existing connection was forcibly closed by the remote host
+20241028-07:00:57.211 : Created session
+20241028-07:00:57.671 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:59151
+20241028-07:00:57.671 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241028-07:00:57.693 : Received logon
+20241028-07:00:57.707 : Responding to logon request
+20241028-07:01:38.752 : Created session
+20241028-07:01:39.201 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:59157
+20241028-07:01:39.201 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241028-07:01:39.216 : Received logon
+20241028-07:01:39.224 : Responding to logon request
+20241028-07:02:37.043 : Session FIX.4.2:SERVER->CLIENT1 disconnecting: Socket exception (127.0.0.1:59157): An existing connection was forcibly closed by the remote host
+20241028-07:05:51.541 : Created session
+20241028-07:05:51.971 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:59183
+20241028-07:05:51.971 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241028-07:05:51.992 : Received logon
+20241028-07:05:52.001 : Responding to logon request
+20241028-07:06:10.901 : Created session
+20241028-07:06:11.261 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:59185
+20241028-07:06:11.261 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241028-07:06:11.287 : Received logon
+20241028-07:06:11.291 : Responding to logon request
+20241028-07:06:13.742 : Session FIX.4.2:SERVER->CLIENT1 disconnecting: Socket exception (127.0.0.1:59185): An existing connection was forcibly closed by the remote host
+20241028-07:28:49.978 : Created session
+20241028-07:28:50.392 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:59251
+20241028-07:28:50.392 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241028-07:28:50.412 : Received logon
+20241028-07:28:50.419 : Responding to logon request
+20241028-07:45:47.378 : Created session
+20241028-07:45:47.799 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:59343
+20241028-07:45:47.799 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241028-07:45:47.870 : Received logon
+20241028-07:45:47.882 : Responding to logon request
+20241028-07:45:55.360 : Session FIX.4.2:SERVER->CLIENT1 disconnecting: Socket exception (127.0.0.1:59343): An existing connection was forcibly closed by the remote host
+20241028-07:45:57.568 : Created session
+20241028-07:48:29.121 : Created session
+20241028-07:48:29.597 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:59361
+20241028-07:48:29.598 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241028-07:48:29.628 : Received logon
+20241028-07:48:29.634 : Responding to logon request
+20241028-07:51:36.038 : Created session
+20241028-07:51:36.541 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:59390
+20241028-07:51:36.541 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241028-07:51:36.590 : Received logon
+20241028-07:51:36.598 : Responding to logon request
+20241028-07:53:26.108 : Created session
+20241028-07:53:26.518 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:59421
+20241028-07:53:26.518 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241028-07:53:26.548 : Received logon
+20241028-07:53:26.558 : Responding to logon request
+20241028-07:53:47.798 : Created session
+20241028-07:53:48.201 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:59425
+20241028-07:53:48.201 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241028-07:53:48.218 : Received logon
+20241028-07:53:48.236 : Responding to logon request
+20241028-07:55:49.908 : Created session
+20241028-07:55:50.312 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:59448
+20241028-07:55:50.312 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241028-07:55:50.344 : Received logon
+20241028-07:55:50.348 : Responding to logon request
+20241028-07:56:44.341 : Session FIX.4.2:SERVER->CLIENT1 disconnecting: Socket exception (127.0.0.1:59448): An existing connection was forcibly closed by the remote host
+20241028-08:01:12.908 : Created session
+20241028-08:01:13.371 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:59509
+20241028-08:01:13.371 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241028-08:01:13.388 : Received logon
+20241028-08:01:13.403 : Responding to logon request
+20241028-08:01:32.064 : Session FIX.4.2:SERVER->CLIENT1 disconnecting: Socket exception (127.0.0.1:59509): An existing connection was forcibly closed by the remote host
+20241028-08:12:22.643 : Created session
+20241028-08:12:22.849 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:60205
+20241028-08:12:22.849 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241028-08:12:22.973 : Received logon
+20241028-08:12:22.989 : Responding to logon request
+20241028-08:13:26.273 : Created session
+20241028-08:13:26.697 : FIX.4.2:SERVER->CLIENT1 Socket Reader 59817589 accepting session FIX.4.2:SERVER->CLIENT1 from 127.0.0.1:60251
+20241028-08:13:26.697 : FIX.4.2:SERVER->CLIENT1 Acceptor heartbeat set to 0 seconds
+20241028-08:13:26.723 : Received logon
+20241028-08:13:26.730 : Responding to logon request
